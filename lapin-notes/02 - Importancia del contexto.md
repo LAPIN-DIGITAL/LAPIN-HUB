@@ -1,4 +1,8 @@
-# LAB-001
+> | **Reunión:** LAB-001 | 
+> | **Versión:** 1.0 | 
+> | **Fecha:** 06/08/2026 | 
+> | **Autor:** Jessica / CEO-IA | 
+> ---
 
 ## Caso de Estudio
 
