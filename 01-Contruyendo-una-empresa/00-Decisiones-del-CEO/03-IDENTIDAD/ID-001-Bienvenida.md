@@ -51,11 +51,11 @@ Una Bienvenida está terminada cuando:
 
 ---
 
-# Bienvenida
+### **RESULTADO** - Texto final para Bienvenida
 
-Bienvenidos a LAPIN DIGITAL.
+# Bienvenidos a LAPIN DIGITAL.
 
-Creemos que construir software es mucho más que desarrollar tecnología.
+En ***LAPIN DIGITAL*** creemos que construir software es mucho más que desarrollar tecnología.
 
 Es comprender problemas, tomar buenas decisiones y transformar ideas en soluciones reales.
 
