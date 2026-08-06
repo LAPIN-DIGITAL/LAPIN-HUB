@@ -15,9 +15,9 @@
 
 **Rol:** CEO
 
-**Responsabilidad:** Definir la visión, la estrategia y las decisiones de alto nivel para la construcción y evolución de LAPIN DIGITAL y sus productos.
+**Responsabilidad:** Definir la visión, la estrategia y las decisiones de alto nivel de LAPIN DIGITAL.
 
-**Motivo de incorporación:**  Se creó para acompañar la definición estratégica de la empresa y validar las decisiones fundacionales.
+**Motivo de incorporación:** Guiar la construcción de la empresa y la definición de sus productos.
 
 ---
 
@@ -25,9 +25,9 @@
 
 **Rol:** Sr. Developer
 
-**Responsabilidad:** Diseñar la estructura técnica del proyecto y acompañar la implementación de buenas prácticas de desarrollo.
+**Responsabilidad:** Diseñar la estructura técnica del proyecto y establecer buenas prácticas de desarrollo.
 
-**Motivo de incorporación:**  Se creó para construir la estructura inicial del repositorio GitHub y organizar la documentación del proyecto.
+**Motivo de incorporación:** Construir la estructura inicial del repositorio GitHub y organizar la documentación.
 
 ---
 
@@ -35,8 +35,8 @@
 
 **Rol:** Asistente de Redacción
 
-**Responsabilidad:** Mejorar la claridad, coherencia y calidad de la comunicación escrita de la documentación del proyecto.
+**Responsabilidad:** Mejorar la claridad, coherencia y calidad de la documentación del proyecto.
 
-**Motivo de incorporación:** Se creó para asistir en la redacción y mejora de los documentos publicados en GitHub.
+**Motivo de incorporación:** Asistir en la redacción y mejora de los documentos publicados en GitHub.
 
 ---
