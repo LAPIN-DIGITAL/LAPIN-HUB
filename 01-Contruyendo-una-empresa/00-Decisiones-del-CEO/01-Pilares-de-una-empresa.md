@@ -6,7 +6,7 @@
 
 # 1. Nuestra esencia
 
-## ¿Quiénes somos?
+** ¿Quiénes somos?**
 
 Aquí vive la razón de existir de la empresa.
 
@@ -27,13 +27,13 @@ Aquí vive la razón de existir de la empresa.
 
 # 2. Nuestra cultura
 
-## ¿Cómo queremos trabajar?
+** ¿Cómo queremos trabajar?** 
 
-No procesos.
+- No procesos.
 
-No herramientas.
+- No herramientas.
 
-Comportamientos.
+- Comportamientos.
 
 ### Documentos:
 
@@ -50,7 +50,7 @@ Comportamientos.
 
 # 3. Nuestra organización
 
-## ¿Qué forma tiene la empresa?
+** ¿Qué forma tiene la empresa? ** 
 
 ### Documentos:
 
@@ -65,7 +65,7 @@ Comportamientos.
 
 # 4. Nuestra identidad visual
 
-## ¿Qué hace que LAPIN sea reconocible?
+** ¿Qué hace que LAPIN sea reconocible? ** 
 
 ### Documentos:
 
@@ -83,7 +83,7 @@ Comportamientos.
 
 # 5. Nuestra evolución
 
-## ¿Cómo sabemos hacia dónde vamos?
+** ¿Cómo sabemos hacia dónde vamos? **
 
 ### Documentos:
 
