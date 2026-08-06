@@ -1,4 +1,4 @@
-> **Reunión:** CEO-001 | 
+> **Nota:** CEO-001 | 
 > **Versión:** 1.0 | 
 > **Fecha:** 06/08/2026 | 
 > **Autor:** Jessica / CEO-IA
