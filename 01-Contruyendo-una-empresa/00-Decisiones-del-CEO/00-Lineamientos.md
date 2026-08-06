@@ -12,6 +12,12 @@ Luego de definir la visión de LAPIN DIGITAL, surgió la necesidad de organizar 
 
 El objetivo no era comenzar a escribir documentos aislados, sino definir primero una estructura que permitiera ordenar el conocimiento de la empresa.
 
+Y una empresa se construye como una casa:
+
+- primero los cimientos;
+- después la estructura;
+- recién al final elegimos el color de las paredes.
+
 ---
 
 ## Decisión
