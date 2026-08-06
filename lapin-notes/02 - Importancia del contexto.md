@@ -4,7 +4,7 @@
 >**Autor:** Jessica / CEO-IA
 > ---
 
-## Caso de Estudio
+##  LAB-001 | Caso de Estudio
 
 # La importancia del contexto en la comunicación entre roles
 

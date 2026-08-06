@@ -4,8 +4,6 @@
 > **Autor:** Jessica / CEO-IA
 > ---
 
-# Reunión CEO-001
-
 # Definición del problema
 
 Voy a empezar haciéndome una sola pregunta.
