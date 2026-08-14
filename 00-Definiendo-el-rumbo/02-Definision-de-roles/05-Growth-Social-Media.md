@@ -1,3 +1,8 @@
+> **Nota:** ROLES-006 | 
+> **Versión:** 1.0 | 
+> **Fecha:** 14/08/2026 | 
+> **Autor:** Jessica 
+> ---
 # LAPIN | Growth & Social Media
 
 ## Propósito del rol

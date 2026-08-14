@@ -1,3 +1,9 @@
+> **Nota:** ROLES-004 | 
+> **Versión:** 1.0 | 
+> **Fecha:** 14/08/2026 | 
+> **Autor:** Jessica 
+> ---
+> 
 # LAPIN | Diseñador UI/UX
 
 ## Propósito del rol

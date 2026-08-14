@@ -1,3 +1,8 @@
+> **Nota:** ROLES-002 | 
+> **Versión:** 1.0 | 
+> **Fecha:** 04/08/2026 | 
+> **Autor:** Jessica 
+> ---
 # LAPIN | CEO
 
 ## Propósito del rol

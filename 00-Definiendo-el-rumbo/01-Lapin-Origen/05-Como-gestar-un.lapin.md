@@ -1,3 +1,9 @@
+>**Nota:** LAB-003 | 
+>**Versión:** 1.0 | 
+>**Fecha:** 14/08/2026 | 
+>**Autor:** Jessica
+> ---
+
 # Cómo incorporamos un nuevo rol a LAPIN DIGITAL
 
 Crear un nuevo rol no consiste simplemente en abrir un chat, asignarle un nombre y darle instrucciones.

@@ -1,0 +1,1 @@
+# Resultado de la integración Jira + ChatGPT

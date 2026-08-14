@@ -1,3 +1,8 @@
+>**Nota:** LAB-004 | 
+>**Versión:** 1.0 | 
+>**Fecha:** 14/08/2026 | 
+>**Autor:** Jessica
+> ---
 # Uso de Chats y GPT en LAPIN
 
 ## Objetivo
