@@ -1,1 +1,0 @@
-# Manual de Configuracion de JIRA

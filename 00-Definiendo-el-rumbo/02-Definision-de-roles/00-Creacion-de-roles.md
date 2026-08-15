@@ -50,7 +50,19 @@
 
 **Motivo de incorporación:** Asistir en la redacción y mejora de los documentos publicados en GitHub.
 
-Es muy limitada su funcion se dio de baja el 14/08/2026
+**Motivo de Baja:** Es muy limitada su funcion se dio de baja el 14/08/2026
+
+---
+
+**Fecha:** 14/08/2026
+
+**Rol:** Recursos Humanos / HR
+
+**Área:** Organización y Gestión de Roles
+
+**Responsabilidad:** Diseñar y mantener la estructura de roles de LAPIN DIGITAL, definiendo responsabilidades, autoridad, límites e interacciones entre puestos y evaluando cuándo una necesidad justifica incorporar, modificar, fusionar o eliminar un rol.
+
+**Motivo de incorporación:** Asegurar que LAPIN incorpore únicamente los especialistas necesarios, evitando superposición de responsabilidades, duplicación de trabajo y costos de coordinación innecesarios.
 
 ---
 
@@ -71,3 +83,15 @@ Es muy limitada su funcion se dio de baja el 14/08/2026
 **Responsabilidad:** Construir y desarrollar la audiencia de LAPIN DIGITAL, definiendo estrategias de distribución, crecimiento e interacción en redes sociales.
 
 **Motivo de incorporación:** Hacer visible el trabajo de LAPIN, generar interés y construir una audiencia real que permita validar ideas, metodología y futuros productos.
+
+---
+
+**Fecha:** 14/08/2026
+
+**Rol:** Jira Administrator
+
+**Área:** Gestión de la herramienta
+
+**Responsabilidad:** Configurar, mantener y evolucionar Jira como herramienta de gestión de LAPIN DIGITAL, administrando su estructura, configuraciones, workflows, permisos y automatizaciones.
+
+**Motivo de incorporación:** Contar con una herramienta de gestión correctamente configurada y adaptada a las necesidades de LAPIN, evitando trasladar al Project Manager responsabilidades técnicas de administración de Jira.

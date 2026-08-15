@@ -1,4 +1,4 @@
-# Estructurar JIRA
+# Estructurar BACKLOG
 
 ## Informacion BETA a revisar
 
