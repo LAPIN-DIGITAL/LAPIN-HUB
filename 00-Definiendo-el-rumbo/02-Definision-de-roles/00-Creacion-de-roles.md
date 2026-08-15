@@ -1,6 +1,6 @@
-> **Versión:** 2.0 |  
-> **Fecha:** 15/08/2026 |  
-> **Autor:** Jessica  
+> **Versión:** 2.0 | 
+> **Fecha:** 15/08/2026 | 
+> **Autor:** Jessica 
 > ---
 
 # Historial de Roles de LAPIN DIGITAL
