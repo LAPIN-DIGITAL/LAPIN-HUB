@@ -3,7 +3,7 @@
 >**Fecha:** 14/08/2026 | 
 >**Autor:** Jessica
 > ---
-> 
+
 # Elección de Jira como herramienta de gestión de tareas
 
 ## Contexto

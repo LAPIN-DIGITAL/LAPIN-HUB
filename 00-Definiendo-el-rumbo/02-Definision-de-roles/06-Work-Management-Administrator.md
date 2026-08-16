@@ -1,7 +1,6 @@
-> **Código:** LD-WMAdm |  
-> **Versión:** 2.0 |  
-> **Fecha:** 15/08/2026 |  
-> **Autor:** Jessica  
+> **Versión:** 2.0 | 
+> **Fecha:** 15/08/2026 | 
+> **Autor:** Jessica 
 > ---
 
 # LAPIN | Work Management Administrator
