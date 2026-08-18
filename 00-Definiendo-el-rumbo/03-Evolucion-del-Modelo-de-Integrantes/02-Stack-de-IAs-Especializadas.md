@@ -1,4 +1,4 @@
-> **Versión:** 1.0 |  
+> **Versión:** 1.1 |  
 > **Fecha:** 18/08/2026 |  
 > **Autor:** Jessica  
 > ---
@@ -79,15 +79,7 @@ Fue:
 
 > **Para determinada necesidad, otra herramienta produjo un resultado más adecuado.**
 
-Esto cambió nuestra forma de pensar las herramientas de Inteligencia Artificial.
-
-Si una herramienta diferente podía aportar mayor valor para documentación, podía ocurrir lo mismo en otras especialidades.
-
-Por ejemplo, una herramienta específicamente orientada al desarrollo, como Cursor u otras alternativas, podría resultar más conveniente para determinadas actividades de un Developer que una herramienta generalista.
-
-Esto no se asume anticipadamente.
-
-Debe comprobarse mediante trabajo real cuando aparezca la necesidad.
+Si una herramienta diferente podía aportar mayor valor para documentación, podía ocurrir lo mismo en otras especialidades — por ejemplo, una herramienta específicamente orientada al desarrollo, como Cursor u otras alternativas, podría resultar más conveniente para determinadas actividades de un Developer que una herramienta generalista. Esto no se asume anticipadamente: debe comprobarse mediante trabajo real cuando aparezca la necesidad.
 
 ---
 
@@ -104,8 +96,6 @@ Por lo tanto:
 > **Especializar los roles no implica que todos los integrantes deban utilizar la misma tecnología.**
 
 Un integrante puede utilizar una tecnología diferente si esa elección mejora suficientemente el desempeño de su función.
-
-Esto abrió la posibilidad de construir progresivamente un **stack de IAs especializadas**, en lugar de intentar resolver todas las necesidades mediante una única plataforma.
 
 ---
 
@@ -161,27 +151,7 @@ Esto reforzó una idea:
 
 > **El presupuesto no compra simplemente "una IA". Compra un conjunto determinado de capacidades.**
 
-Por lo tanto, decidir qué suscripción pagar debería depender del trabajo que necesitamos resolver.
-
-Si en determinado momento el principal cuello de botella de LAPIN se encuentra en desarrollo, puede resultar más valioso destinar presupuesto a una herramienta especializada en programación.
-
-Si la necesidad principal requiere versatilidad, investigación, imágenes, análisis y diferentes tipos de trabajo, una herramienta generalista puede aportar mayor valor.
-
-Incluso puede ocurrir que la mejor utilización del presupuesto no sea mejorar el plan de una IA, sino destinarlo a otra capacidad: automatización, agentes, documentación, desarrollo u otra herramienta especializada.
-
-Esto modifica la pregunta financiera.
-
-En lugar de preguntar:
-
-> **¿Qué IA vale más la pena pagar?**
-
-Comenzamos a preguntar:
-
-> **¿Qué capacidad adicional produce mayor valor para LAPIN por el presupuesto que estamos dispuestos a invertir?**
-
-Esto no significa que LAPIN deba contratar múltiples herramientas.
-
-Significa que **el presupuesto debe asignarse donde produzca mayor valor**, independientemente de la marca o tecnología.
+Por lo tanto, decidir qué suscripción pagar debería depender del trabajo que necesitamos resolver: si el principal cuello de botella se encuentra en desarrollo, puede resultar más valioso destinar presupuesto a una herramienta especializada en programación; si la necesidad principal requiere versatilidad, investigación, imágenes y distintos tipos de trabajo, una herramienta generalista puede aportar mayor valor.
 
 ---
 
@@ -204,18 +174,6 @@ Claude produjo mejores resultados para determinadas necesidades documentales que
 Una herramienta especializada en desarrollo puede resultar más adecuada cuando el trabajo se concentra en programación.
 
 Y futuras herramientas podrán resultar superiores para necesidades que todavía no hemos encontrado.
-
-Por eso LAPIN evita adoptar una postura del tipo:
-
-> "Trabajamos con ChatGPT."
-
-o:
-
-> "Claude es nuestra IA."
-
-Nuestra postura es:
-
-> **LAPIN utiliza la tecnología que mejor resuelve el requerimiento que tiene delante.**
 
 Esto requiere conocer las capacidades disponibles, experimentar con ellas y evitar elegir solamente por popularidad, costumbre o preferencia personal.
 

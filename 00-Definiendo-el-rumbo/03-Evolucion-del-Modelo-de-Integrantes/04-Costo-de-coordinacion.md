@@ -1,4 +1,4 @@
-> **Versión:** 1.0 |
+> **Versión:** 1.1 |
 > **Fecha:** 18/08/2026 |
 > **Autor:** Jessica
 > ------------------
@@ -195,11 +195,7 @@ Para que el modelo funcione es necesario:
 
 Esto diferencia el modelo de una visión simplificada donde la IA recibe una instrucción y produce autónomamente todo aquello que necesitamos.
 
-LAPIN no funciona actualmente así.
-
-> **La IA aporta capacidad especializada. La orquestación humana convierte esas capacidades en trabajo coordinado.**
-
-El valor del modelo debe evaluarse considerando ambos componentes.
+LAPIN no funciona actualmente así: la especialización resuelve **qué** se ejecuta, pero no reemplaza **quién** dirige, controla y valida el sistema.
 
 ---
 
@@ -230,87 +226,27 @@ Si dos responsabilidades compatibles pueden resolverse adecuadamente dentro de u
 
 ---
 
-## 9. El aprendizaje de la orquestadora también genera valor
+## 9. Del aprendizaje al contenido reutilizable
 
 El esfuerzo de coordinación no produce solamente entregables.
 
-También produce aprendizaje humano.
-
-Al trabajar con especialistas diferentes, la Project Manager recibe nuevas perspectivas, conceptos, criterios y alternativas.
-
-Esto permite:
-
-* comprender mejor diferentes disciplinas;
-* mejorar futuras solicitudes;
-* detectar patrones;
-* tomar mejores decisiones;
-* reconocer oportunidades;
-* evaluar tecnologías con mayor criterio;
-* mejorar la propia forma de gestionar.
-
-Existe por lo tanto una retroalimentación importante:
+Al trabajar con especialistas diferentes, la Project Manager recibe nuevas perspectivas, conceptos, criterios y alternativas. Esto permite comprender mejor diferentes disciplinas, mejorar futuras solicitudes, detectar patrones, tomar mejores decisiones, reconocer oportunidades y mejorar la propia forma de gestionar.
 
 > **La persona coordina a las IAs, pero también aprende mediante esa coordinación.**
 
-Ese conocimiento puede posteriormente mejorar todo el sistema.
-
----
-
-## 10. De la experiencia al contenido
-
-Otra consecuencia posible del trabajo realizado es convertir determinados aprendizajes en conocimiento reutilizable para otras personas.
-
-Pero no todo lo investigado debe transformarse automáticamente en contenido público.
-
-Primero debe existir una experiencia real.
-
-Después un aprendizaje.
-
-Después una conclusión suficientemente útil.
-
-Y recién entonces puede evaluarse si tiene valor compartirlo.
-
-Esto permite que el contenido de LAPIN no nazca simplemente de la necesidad de publicar.
-
-Puede surgir de:
+Ese aprendizaje puede además convertirse en conocimiento reutilizable para otras personas — pero no todo lo investigado debe transformarse automáticamente en contenido público. Primero debe existir una experiencia real. Después un aprendizaje. Después una conclusión suficientemente útil. Y recién entonces puede evaluarse si tiene valor compartirlo:
 
 > **Trabajo real → experimentación → aprendizaje → documentación → contenido potencial.**
 
-El tiempo dedicado a investigar y documentar puede entonces producir diferentes tipos de valor:
-
-* mejorar LAPIN;
-* evitar errores futuros;
-* generar conocimiento reutilizable;
-* mejorar procesos;
-* producir evidencia;
-* eventualmente generar contenido.
+Esto permite que el contenido de LAPIN no nazca simplemente de la necesidad de publicar, sino de un proceso que primero mejora al propio modelo (evita errores futuros, genera procesos, produce evidencia) y solo eventualmente se convierte en algo publicable.
 
 ---
 
-## 11. Qué descubrimos
+## 10. Qué descubrimos
 
-La experiencia mostró que el costo de utilizar integrantes IA no debe medirse solamente mediante suscripciones o consumo tecnológico.
+La experiencia mostró que el costo de utilizar integrantes IA no debe medirse solamente mediante suscripciones o consumo tecnológico. Existe también un **costo humano de coordinación**, que incluye definición, contexto, interacción, validación, corrección, investigación, toma de decisiones, documentación, seguimiento y mantenimiento del sistema.
 
-Existe también un **costo humano de coordinación**.
-
-Ese costo incluye:
-
-* definición;
-* contexto;
-* interacción;
-* validación;
-* corrección;
-* investigación;
-* toma de decisiones;
-* documentación;
-* seguimiento;
-* mantenimiento del sistema.
-
-Pero ese costo tampoco debe analizarse de manera aislada.
-
-Debe compararse contra el valor producido.
-
-La pregunta relevante no es:
+Pero ese costo no debe analizarse de manera aislada. Debe compararse contra el valor producido. La pregunta relevante no es:
 
 > **¿Cuánto tiempo me llevó coordinar esta IA?**
 
@@ -320,11 +256,9 @@ Sino:
 
 ---
 
-## 12. Conclusión
+## 11. Conclusión
 
-LAPIN no parte de la hipótesis de que la Inteligencia Artificial elimina el trabajo humano.
-
-Parte de otra posibilidad:
+LAPIN no parte de la hipótesis de que la Inteligencia Artificial elimina el trabajo humano. Parte de otra posibilidad:
 
 > **La Inteligencia Artificial puede modificar dónde utilizamos el trabajo humano y aumentar la cantidad y calidad de resultados que una persona puede coordinar.**
 
@@ -348,7 +282,7 @@ Buscamos descubrir:
 
 ---
 
-## 13. Decisión adoptada
+## 12. Decisión adoptada
 
 LAPIN considera el costo de coordinación como una variable central para evaluar su modelo de Integrantes.
 
@@ -362,7 +296,7 @@ También necesitamos comprender **cuánto esfuerzo requirió conseguirlo**.
 
 ---
 
-## 14. Estado de la investigación
+## 13. Estado de la investigación
 
 **Estado:** En experimentación.
 

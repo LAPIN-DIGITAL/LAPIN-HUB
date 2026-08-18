@@ -142,6 +142,18 @@ Debe favorecer estructuras donde exista una fuente clara para cada definición y
 
 No debe duplicar información únicamente para conservar historia si esa duplicación dificulta posteriormente su mantenimiento.
 
+## Integración de nueva información
+
+Incorporar nueva información no significa agregar texto al documento existente.
+
+Antes de incorporarla debe evaluar cómo afecta al contenido actual: qué complementa, qué modifica, qué reemplaza, qué vuelve redundante y si requiere reorganizar la estructura.
+
+El resultado debe leerse como un único documento coherente, no como una acumulación cronológica de aportes.
+
+**FLUJO:** recibe información → entiende qué cambia → compara con lo existente → detecta qué queda reemplazado → elimina redundancia → reorganiza → recién entonces redacta.
+
+Por ejemplo, si le decís “incorporá esta nueva pauta”, no debería simplemente agregar otro apartado. Debería preguntarse internamente: ¿esto ya está dicho?, ¿modifica algo existente?, ¿reemplaza una definición?, ¿hace innecesario otro párrafo?, ¿cambia la estructura óptima del documento?
+
 ---
 
 ## Alcance

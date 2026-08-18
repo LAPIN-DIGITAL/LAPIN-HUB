@@ -1,4 +1,4 @@
-> **Versión:** 1.0 |  
+> **Versión:** 1.1 |  
 > **Fecha:** 18/08/2026 |  
 > **Autor:** Jessica  
 > ---
@@ -133,45 +133,21 @@ La integración permite que la persona deje de actuar permanentemente como puent
 
 ---
 
-## 5. Ampliar el contexto disponible
+## 5. Conectar información dispersa y dar continuidad al trabajo
 
-La integración también puede proporcionar un contexto más completo.
+Una vez eliminado el traslado manual, aparecieron otros tres beneficios que en el fondo son la misma consecuencia mirada desde ángulos distintos: cuando la IA puede consultar varias fuentes autorizadas, deja de depender únicamente de lo que una persona recuerda proporcionarle.
 
-Una solicitud rara vez existe completamente aislada.
+**Contexto más completo.** Una solicitud rara vez existe completamente aislada. Una reunión puede estar relacionada con correos anteriores. Los correos pueden referenciar documentos. Los documentos pueden contener decisiones. Un repositorio puede contener el estado real de un desarrollo. Cuando la IA puede consultar esas fuentes, tiene mayor posibilidad de reconstruir el contexto necesario sin depender de que alguien se lo transcriba.
 
-Una reunión puede estar relacionada con correos anteriores.
+**Información distribuida que se conecta.** Cuando la información necesaria se encuentra repartida entre sistemas — por ejemplo: calendario → reunión → transcripción → minuta → documentación → acciones posteriores — una IA conectada puede ayudar a relacionar esas fuentes y producir un resultado usando información proveniente de distintos puntos del proceso, en lugar de requerir que una persona los recorra uno por uno.
 
-Los correos pueden referenciar documentos.
+**Continuidad entre actividades.** Una reunión no tiene por qué terminar cuando finaliza la llamada. Un correo no tiene por qué permanecer aislado en la bandeja de entrada. Un documento no tiene por qué ser solamente un archivo almacenado. Cuando existe integración, lo que produce una herramienta puede convertirse en contexto para la actividad siguiente, construyendo un flujo más continuo: información → análisis → decisión → documentación → acción → seguimiento.
 
-Los documentos pueden contener decisiones.
-
-El calendario puede indicar cuándo ocurrió o ocurrirá determinada actividad.
-
-Un repositorio puede contener el estado real de un desarrollo.
-
-Cuando la IA puede consultar diferentes fuentes autorizadas, tiene mayor posibilidad de reconstruir el contexto necesario sin depender exclusivamente de aquello que una persona recuerde proporcionar.
-
-> **Integrar herramientas permite acercar la IA al contexto real donde ocurre el trabajo.**
+> **Integrar herramientas permite acercar la IA al contexto real donde ocurre el trabajo — no solo dárselo una vez, sino mantenerlo conectado entre actividades.**
 
 ---
 
-## 6. Conectar información distribuida
-
-Otro beneficio aparece cuando la información necesaria para resolver una actividad se encuentra distribuida.
-
-Por ejemplo:
-
-> **Calendario → reunión → transcripción → minuta → documentación → acciones posteriores.**
-
-Sin integración, una persona puede necesitar recorrer manualmente cada una de esas fuentes.
-
-Una IA conectada puede ayudar a relacionarlas y producir un resultado utilizando información proveniente de diferentes puntos del proceso.
-
-Esto permite comenzar a pensar la IA no solamente como una herramienta que responde preguntas, sino como una **capa capaz de trabajar transversalmente sobre diferentes fuentes de información**.
-
----
-
-## 7. Reducir tareas administrativas
+## 6. Reducir tareas administrativas
 
 La experiencia con herramientas integradas mostró también potencial para reducir actividades administrativas derivadas del trabajo principal.
 
@@ -193,27 +169,7 @@ Esto permite que parte del trabajo administrativo se produzca como consecuencia 
 
 ---
 
-## 8. Mejorar la continuidad del trabajo
-
-Las integraciones también pueden reducir la fragmentación entre actividades.
-
-Una reunión no tiene por qué terminar cuando finaliza la llamada.
-
-Un correo no tiene por qué permanecer aislado en la bandeja de entrada.
-
-Un documento no tiene por qué ser solamente un archivo almacenado.
-
-Cuando existe integración, la información producida por una herramienta puede convertirse en contexto para la siguiente actividad.
-
-Esto permite construir flujos más continuos:
-
-> **Información → análisis → decisión → documentación → acción → seguimiento.**
-
-La IA puede participar en distintos puntos de ese recorrido según las capacidades y permisos disponibles.
-
----
-
-## 9. Acercar los integrantes IA al trabajo real
+## 7. Acercar los integrantes IA al trabajo real
 
 Esta experiencia también modificó nuestra concepción de los Integrantes de LAPIN.
 
@@ -232,19 +188,13 @@ Por ejemplo, según la función que desempeñe, podría necesitar acceso a:
 - reuniones;
 - herramientas especializadas.
 
-Esto se parece más a la forma en que incorporamos una persona a una organización.
-
-No esperamos que un nuevo integrante humano trabaje sin acceso a ninguna herramienta y que otra persona copie constantemente la información que necesita.
-
-Le proporcionamos los accesos necesarios para desempeñar su puesto.
+Esto se parece más a la forma en que incorporamos una persona a una organización: no esperamos que un nuevo integrante humano trabaje sin acceso a ninguna herramienta y que otra persona copie constantemente la información que necesita — le damos los accesos necesarios para desempeñar su puesto.
 
 La misma lógica puede comenzar a aplicarse a determinados integrantes IA.
 
-> **Las herramientas forman parte del entorno de trabajo del integrante.**
-
 ---
 
-## 10. La capacidad operativa no depende solamente del modelo
+## 8. La capacidad operativa no depende solamente del modelo
 
 La experimentación produjo otro aprendizaje.
 
@@ -258,19 +208,11 @@ Por eso comenzamos a pensar la capacidad real de un integrante como una combinac
 
 > **IA + Contexto + Herramientas + Integraciones + Permisos = Capacidad operativa**
 
-Esto significa también que dos implementaciones de una misma IA pueden tener capacidades muy diferentes.
-
-Una puede trabajar únicamente mediante conversación.
-
-Otra puede disponer de acceso autorizado a correo, calendario, documentación, repositorios u otras herramientas.
-
-El modelo puede ser el mismo.
-
-**Su capacidad operativa no necesariamente lo es.**
+Esto significa también que dos implementaciones de una misma IA pueden tener capacidades muy diferentes: una puede trabajar únicamente mediante conversación, otra puede disponer de acceso autorizado a correo, calendario, documentación, repositorios u otras herramientas. El modelo puede ser el mismo — su capacidad operativa no necesariamente lo es.
 
 ---
 
-## 11. Integración no significa autonomía ilimitada
+## 9. Integración no significa autonomía ilimitada
 
 Encontrar estos beneficios no significa que toda herramienta deba conectarse ni que toda acción deba delegarse.
 
@@ -296,7 +238,7 @@ La integración debe respetar las responsabilidades y límites definidos para ca
 
 ---
 
-## 12. Criterio para incorporar integraciones
+## 10. Criterio para incorporar integraciones
 
 LAPIN no incorporará integraciones solamente porque una plataforma las permita.
 
@@ -317,7 +259,7 @@ No convertirse en complejidad tecnológica sin propósito.
 
 ---
 
-## 13. Qué descubrimos
+## 11. Qué descubrimos
 
 La investigación mostró que el potencial de una IA no depende solamente de cuánto puede razonar o de la calidad de las respuestas que produce.
 
@@ -335,13 +277,9 @@ Las integraciones pueden aportar diferentes beneficios:
 - reducir intervención humana en tareas de bajo valor;
 - habilitar nuevos flujos de trabajo.
 
-El descubrimiento principal fue:
-
-> **Una IA aislada puede asistir sobre el trabajo. Una IA integrada puede comenzar a participar dentro del trabajo.**
-
 ---
 
-## 14. Conclusión
+## 12. Conclusión
 
 Integrar Inteligencia Artificial con las herramientas de trabajo puede aumentar significativamente su utilidad práctica.
 
@@ -353,9 +291,13 @@ Esto puede disminuir tareas manuales, conectar información fragmentada y permit
 
 Las integraciones pasan así a formar parte de las capacidades que debemos considerar al diseñar un puesto y al evaluar una tecnología.
 
+El descubrimiento principal de esta investigación fue:
+
+> **Una IA aislada puede asistir sobre el trabajo. Una IA integrada puede comenzar a participar dentro del trabajo.**
+
 ---
 
-## 15. Decisión adoptada
+## 13. Decisión adoptada
 
 LAPIN considera las integraciones como una capacidad estratégica para ampliar progresivamente lo que pueden hacer sus integrantes.
 
@@ -367,7 +309,7 @@ La evaluación de una IA deberá considerar no solamente la calidad del modelo, 
 
 ---
 
-## 16. Estado de la investigación
+## 14. Estado de la investigación
 
 **Estado:** En experimentación permanente.
 
