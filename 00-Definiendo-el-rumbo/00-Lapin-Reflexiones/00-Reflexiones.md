@@ -1,3 +1,8 @@
+>**Versión:** 1.0 | 
+>**Fecha:** 06/08/2026 | 
+>**Autor:** Jessica
+> ---
+
 # Reflexiones
 
 ---
