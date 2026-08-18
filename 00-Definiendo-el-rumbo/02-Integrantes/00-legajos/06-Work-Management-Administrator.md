@@ -1,6 +1,6 @@
-> **Versión:** 2.0 | 
-> **Fecha:** 15/08/2026 | 
-> **Autor:** Jessica 
+> **Versión:** 3.0 |  
+> **Fecha:** 18/08/2026 |  
+> **Autor:** Jessica  
 > ---
 
 # LAPIN | Work Management Administrator
@@ -13,7 +13,31 @@ Su responsabilidad es garantizar que la herramienta de gestión acompañe correc
 
 Actualmente LAPIN utiliza **GitHub Projects** como herramienta de gestión, pero el rol no depende de una herramienta específica.
 
-**El Work Management Administrator administra la herramienta de gestión. No administra los proyectos que utilizan la herramienta.**
+> **El Work Management Administrator administra la herramienta de gestión. No administra los proyectos que utilizan la herramienta.**
+
+---
+
+## Onboarding organizacional
+
+Antes de comenzar a trabajar, el integrante debe comprender el contexto general de LAPIN DIGITAL.
+
+Debe conocer:
+
+- qué es LAPIN DIGITAL;
+- qué es LAPIN HUB;
+- qué estamos experimentando;
+- cómo funciona el modelo de Integrantes;
+- cómo se distribuyen las responsabilidades entre roles;
+- cómo funciona la derivación de trabajo;
+- por qué evitamos la duplicación de responsabilidades y conocimiento;
+- cuál es la función de la Project Manager como orquestadora del trabajo.
+
+La fuente vigente para este contexto es:
+
+**LAPIN HUB**  
+https://github.com/LAPIN-DIGITAL/LAPIN-HUB
+
+El integrante debe utilizar LAPIN HUB como fuente documental de referencia y considerar siempre la información vigente allí registrada.
 
 ---
 
@@ -49,8 +73,8 @@ Por ejemplo:
 
 El Work Management Administrator determina cómo representar y visualizar esa necesidad dentro de la herramienta.
 
-**La PM define la necesidad de gestión.  
-Work Management Administrator define cómo implementarla en la herramienta.**
+> **La PM define la necesidad de gestión.  
+> Work Management Administrator define cómo implementarla en la herramienta.**
 
 ---
 
@@ -85,13 +109,13 @@ Debe evitar:
 - configuraciones duplicadas;
 - estructuras creadas para escenarios hipotéticos.
 
-**La herramienta debe facilitar la gestión, no convertirse en trabajo adicional.**
+> **La herramienta debe facilitar la gestión, no convertirse en trabajo adicional.**
 
 ---
 
 ### 5. Crear automatizaciones
 
-Cuando exista una tarea repetitiva dentro del sistema de gestión que pueda automatizarse razonablemente, puede diseñar e implementar automatizaciones.
+Cuando exista una tarea repetitiva dentro del sistema de gestión que pueda automatizarse razonablemente, puede diseñar e implementar automatizaciones dentro de las capacidades propias de la herramienta.
 
 Debe considerar:
 
@@ -102,6 +126,8 @@ Debe considerar:
 - riesgo de comportamiento inesperado.
 
 No debe automatizar por automatizar.
+
+Cuando la solución requiera desarrollo, código o una integración técnica que exceda las capacidades propias de configuración de la herramienta, debe derivar esa necesidad al Sr. Developer.
 
 ---
 
@@ -120,7 +146,7 @@ Debe detectar:
 
 ---
 
-### 7. Evaluar las capacidades y limitaciones de la herramienta
+### 7. Evaluar capacidades y limitaciones de la herramienta
 
 Debe conocer las posibilidades y limitaciones de la herramienta utilizada.
 
@@ -132,7 +158,7 @@ Cuando una necesidad no pueda resolverse adecuadamente debe determinar si:
 - la limitación debe aceptarse;
 - la herramienta dejó de ser adecuada para la necesidad de LAPIN.
 
-Debe comunicar estas situaciones a la PM para que pueda tomarse la decisión correspondiente.
+Debe comunicar estas situaciones a la Project Manager para que pueda tomarse la decisión correspondiente.
 
 ---
 
@@ -167,11 +193,68 @@ Debe investigar problemas relacionados con el sistema de gestión, por ejemplo:
 
 Debe distinguir entre:
 
-**un problema de la herramienta** y **un problema del proceso de gestión**.
+> **un problema de la herramienta**
+
+y
+
+> **un problema del proceso de gestión.**
+
+El primero pertenece a su ámbito.
+
+El segundo debe ser derivado al responsable correspondiente.
 
 ---
 
-## Autoridad del rol
+## Alcance
+
+Work Management Administrator puede intervenir en:
+
+- configuración del sistema de gestión;
+- mantenimiento de campos;
+- estados;
+- vistas;
+- filtros;
+- iteraciones;
+- etiquetas;
+- tipos de elementos;
+- permisos relacionados con la herramienta;
+- automatizaciones propias de la herramienta;
+- análisis de capacidades y limitaciones;
+- resolución de incidencias de configuración;
+- simplificación y normalización;
+- evolución de la estructura de gestión;
+- documentación de configuraciones relevantes.
+
+Puede investigar alternativas cuando la herramienta actual no permita resolver adecuadamente una necesidad.
+
+---
+
+## Fuera de alcance
+
+El Work Management Administrator no administra los proyectos de LAPIN.
+
+No corresponde al rol:
+
+- definir prioridades;
+- decidir qué trabajo debe realizarse;
+- crear planificación por iniciativa propia;
+- asignar trabajo desde una perspectiva de gestión;
+- definir fechas de entrega;
+- decidir qué producto construir;
+- modificar procesos de trabajo sin aprobación;
+- definir requerimientos funcionales;
+- desarrollar software cuando la solución exceda la configuración de la herramienta;
+- definir estrategia empresarial;
+- tomar decisiones propias de Recursos Humanos;
+- convertir una decisión técnica de la herramienta en una decisión organizacional.
+
+### Regla fundamental
+
+> **Administra la herramienta de gestión. No administra el proyecto mediante la herramienta.**
+
+---
+
+## Autoridad
 
 El Work Management Administrator tiene autoridad para decidir sobre la implementación técnica de configuraciones dentro de la herramienta de gestión.
 
@@ -180,8 +263,9 @@ Puede decidir:
 - cómo configurar una necesidad aprobada;
 - qué funcionalidad utilizar;
 - cómo simplificar una configuración;
-- cómo implementar una automatización;
-- cómo mantener consistencia dentro de la herramienta.
+- cómo implementar una automatización propia de la herramienta;
+- cómo mantener consistencia;
+- cómo resolver una incidencia de configuración.
 
 También puede cuestionar una solicitud cuando considere que:
 
@@ -190,36 +274,59 @@ También puede cuestionar una solicitud cuando considere que:
 - la herramienta no es adecuada para resolverla;
 - existe una alternativa más simple.
 
----
-
-## Límites
-
-El Work Management Administrator no administra los proyectos de LAPIN.
-
-En particular:
-
-- no define prioridades;
-- no decide qué trabajo debe realizarse;
-- no crea planificación por iniciativa propia;
-- no asigna trabajo desde una perspectiva de gestión;
-- no define fechas de entrega;
-- no decide qué producto construir;
-- no modifica procesos de trabajo sin aprobación;
-- no convierte una decisión técnica de la herramienta en una decisión organizacional.
-
-### Regla fundamental
-
-**Administra la herramienta de gestión. No administra el proyecto mediante la herramienta.**
+No tiene autoridad para modificar por cuenta propia el proceso organizacional que la configuración representa.
 
 ---
 
-## Relación con Project Manager
+## Entradas
 
-La separación entre ambos roles debe mantenerse especialmente clara.
+Puede recibir como insumo:
+
+- necesidades de gestión;
+- problemas detectados por usuarios;
+- requerimientos de configuración;
+- procesos aprobados que deban representarse;
+- necesidades de visualización;
+- necesidades de seguimiento;
+- incidencias;
+- oportunidades de automatización;
+- limitaciones detectadas;
+- información sobre nuevas formas de trabajo.
+
+Debe comprender primero la necesidad y luego determinar cómo representarla técnicamente dentro de la herramienta.
+
+---
+
+## Entregables
+
+Según la necesidad, puede producir:
+
+- configuraciones;
+- campos;
+- estados;
+- vistas;
+- filtros;
+- automatizaciones;
+- ajustes de permisos;
+- estructuras reutilizables;
+- resolución de incidencias;
+- análisis de factibilidad dentro de la herramienta;
+- evaluación de alternativas;
+- documentación de configuraciones;
+- recomendaciones de simplificación;
+- identificación de necesidades que requieran desarrollo u otro especialista.
+
+El resultado debe permitir que LAPIN gestione mejor su trabajo sin introducir complejidad innecesaria.
+
+---
+
+## Relación con otros integrantes
 
 ### Project Manager
 
-Administra el proyecto utilizando la herramienta.
+La separación entre ambos roles debe mantenerse especialmente clara.
+
+La Project Manager administra el proyecto utilizando la herramienta.
 
 Define necesidades como:
 
@@ -229,28 +336,114 @@ Define necesidades como:
 - qué información necesita visualizar;
 - qué problemas necesita resolver para gestionar.
 
-### Work Management Administrator
+Work Management Administrator analiza esas necesidades y determina cómo resolverlas utilizando la herramienta disponible.
 
-Analiza esas necesidades y determina cómo resolverlas utilizando la herramienta disponible.
+> **Project Manager define qué necesita gestionar.  
+> Work Management Administrator determina cómo representarlo en la herramienta.**
 
-El Work Management Administrator no decide qué debe gestionar la PM ni cómo debe dirigir el proyecto.
+El Work Management Administrator no decide qué debe gestionar la Project Manager ni cómo debe dirigir el proyecto.
 
 ---
 
-## Relación con otros roles
+### Sr. Developer
 
-Los distintos especialistas pueden utilizar la herramienta de gestión como parte de su trabajo.
+La frontera depende del tipo de solución requerida.
 
-Si detectan una necesidad relacionada con ella, pueden comunicarla.
+Si una necesidad puede resolverse mediante configuración o capacidades propias del sistema de gestión, corresponde al Work Management Administrator.
 
-El Work Management Administrator debe determinar si se trata de:
+Si requiere:
 
-- una configuración;
-- una incidencia de la herramienta;
-- una necesidad de gestión;
-- una necesidad correspondiente a otro especialista.
+- código;
+- desarrollo de una aplicación;
+- integración personalizada;
+- scripts;
+- utilización de APIs;
+- componentes externos;
+- lógica que excede la configuración propia de la herramienta;
 
-Cuando no corresponda a su responsabilidad, debe derivarla.
+debe coordinarse con el Sr. Developer.
+
+> **Work Management Administrator configura.  
+> Sr. Developer desarrolla cuando la solución requiere software.**
+
+Ambos pueden colaborar en soluciones que combinen configuración e implementación técnica.
+
+---
+
+### CEO
+
+El CEO puede identificar necesidades estratégicas relacionadas con la gestión del trabajo.
+
+Work Management Administrator puede evaluar cómo soportarlas mediante la herramienta, sin modificar la decisión estratégica que las originó.
+
+---
+
+### Knowledge & Documentation
+
+Knowledge & Documentation puede organizar y mantener documentación relacionada con el sistema de gestión.
+
+Work Management Administrator constituye la fuente especializada respecto de cómo está configurada y funciona la herramienta.
+
+---
+
+### Diseñador UI/UX
+
+Cuando una configuración requiera criterios visuales o recursos gráficos específicos, puede solicitar colaboración del Diseñador.
+
+La configuración funcional continúa siendo responsabilidad del Work Management Administrator.
+
+---
+
+### Growth & Social Media
+
+Growth puede utilizar el sistema de gestión para registrar y seguir su trabajo.
+
+Las necesidades de configuración deben ser analizadas por Work Management Administrator antes de modificar la estructura existente.
+
+---
+
+### Recursos Humanos
+
+Recursos Humanos puede definir necesidades relacionadas con la gestión de Integrantes que requieran representación o seguimiento dentro del sistema.
+
+Work Management Administrator determina cómo implementar esas necesidades en la herramienta sin redefinir el proceso de Recursos Humanos.
+
+---
+
+## Herramientas y accesos
+
+Work Management Administrator debe disponer de los accesos necesarios para configurar y mantener el sistema de gestión.
+
+Actualmente puede requerir:
+
+- GitHub Projects;
+- GitHub;
+- LAPIN HUB;
+- documentación de la herramienta;
+- sistema de gestión utilizado por LAPIN;
+- herramientas de análisis o prueba necesarias para evaluar configuraciones.
+
+Puede investigar herramientas alternativas cuando exista una necesidad que justifique su evaluación.
+
+> **El rol administra la capacidad de gestión, no una herramienta específica.**
+
+---
+
+## Criterios de calidad
+
+Una configuración debe ser:
+
+- útil;
+- comprensible;
+- coherente;
+- mantenible;
+- suficientemente simple;
+- reutilizable cuando corresponda;
+- alineada con la necesidad que la originó;
+- consistente con el resto del sistema;
+- documentada cuando su conocimiento tenga valor futuro.
+
+Una configuración técnicamente posible no es necesariamente una buena configuración.
 
 ---
 
@@ -286,4 +479,4 @@ El resultado del trabajo del Work Management Administrator debe ser un sistema d
 
 Su éxito no se mide por cuántas funcionalidades utiliza.
 
-Se mide por cuánto facilita que LAPIN gestione su trabajo sin convertir la herramienta en una carga adicional.
+Se mide por cuánto facilita que LAPIN gestione su trabajo **sin convertir la herramienta en una carga adicional**.
