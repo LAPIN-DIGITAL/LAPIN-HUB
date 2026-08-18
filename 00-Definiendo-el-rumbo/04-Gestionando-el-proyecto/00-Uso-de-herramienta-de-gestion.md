@@ -1,105 +1,58 @@
+> **Versión:** 2.1
+> **Fecha:** 18/08/2026
+> **Autor:** Jessica
 
->**Versión:** 1.0 | 
->**Fecha:** 14/08/2026 | 
->**Autor:** Jessica
-> ---
+# Importancia de incorporar una herramienta de gestión
 
-# Elección de Jira como herramienta de gestión de tareas
+## Por qué apareció la necesidad
 
-## Contexto
+A medida que LAPIN empezó a trabajar con más Roles y actividades en paralelo, apareció un problema práctico.
 
-A medida que LAPIN DIGITAL comenzó a crecer, apareció una necesidad que la documentación existente en GitHub no resolvía por sí sola.
+LAPIN HUB conserva el conocimiento generado: qué hicimos, qué decidimos, por qué y qué aprendimos. Pero eso no alcanza para gestionar el trabajo cotidiano.
 
-GitHub permite conservar muy bien la historia del proyecto: qué se hizo, qué decisiones se tomaron y por qué. Sin embargo, al retomar el trabajo después de algunos días, resultaba difícil responder rápidamente preguntas simples como:
+Después de algunos días necesitábamos poder responder rápido: ¿dónde habíamos quedado? ¿qué estábamos haciendo? ¿qué quedó pendiente? ¿qué Rol tiene trabajo por hacer? ¿qué está bloqueado? ¿qué es prioritario? ¿qué sigue después?
 
-* ¿Dónde había quedado?
-* ¿Qué estaba haciendo?
-* ¿Qué falta hacer?
-* ¿Qué rol tiene tareas pendientes?
-* ¿Qué debería hacerse a continuación?
+Depender de recordarlo funciona con poco trabajo, pero deja de ser sostenible a medida que crece. Por eso LAPIN necesita complementar su memoria documental con un **sistema de gestión del trabajo**.
 
-Era necesario incorporar una herramienta para gestionar el **trabajo presente y futuro**, complementando la documentación histórica que ya existe en GitHub.
+> LAPIN HUB conserva el conocimiento y el camino recorrido. El sistema de gestión permite saber dónde estamos y cómo continuar.
 
-## Qué se buscó
+---
 
-La herramienta debía cumplir algunos criterios básicos:
+## Qué esperamos del sistema
 
-* Tener un tablero visual y fácil de leer.
-* Permitir trabajar con tareas o tarjetas.
-* Identificar qué rol es responsable de cada tarea.
-* Mostrar claramente qué está pendiente, en curso, bloqueado o terminado.
-* Permitir retomar fácilmente el trabajo después de varios días.
-* Ser simple de mantener.
-* Tener una opción gratuita que permita utilizarla de manera permanente.
-* Preferentemente, aportar aprendizaje sobre una herramienta utilizada profesionalmente en gestión de proyectos.
+No buscamos solamente una lista de tareas. El sistema debe permitir entender rápidamente: qué trabajo existe, en qué estado está, qué Rol es responsable, qué prioridad tiene, a qué período pertenece, cuánto se estima y se completa, y qué resultados se producen.
 
-La intención no era incorporar una herramienta solamente porque tuviera muchas funcionalidades, sino encontrar una solución **buena, visual, práctica y económica**.
+También debe generar información que después permita analizar cómo funciona LAPIN como organización — forma parte de la infraestructura del laboratorio, no es solo una lista de pendientes.
 
-## Herramientas consideradas
+---
 
-Se consideraron principalmente:
+## Una particularidad de LAPIN: Roles, no usuarios
 
-* **Azure DevOps Boards:** herramienta ya conocida y utilizada profesionalmente, pero justamente por eso aportaba poco aprendizaje nuevo.
-* **GitHub Projects:** tenía la ventaja de estar integrado directamente con los repositorios y la documentación de LAPIN.
-* **Trello:** muy simple y visual, especialmente atractivo para trabajar con un modelo similar a tarjetas físicas.
-* **Jira:** herramienta ampliamente utilizada para gestión de proyectos y equipos de tecnología, con una estructura visual de tableros y tareas.
+LAPIN no trabaja con personas reales con cuenta de usuario — trabaja con **Roles**, que pueden estar ocupados por una IA o por una persona. Eso significa que quien opera la herramienta no necesariamente es quien responde por el trabajo.
 
-## Decisión
+Por eso, al evaluar una herramienta, necesitábamos comprobar especialmente que pudiera representar a nuestros Roles como información estructurada — no depender solo de los usuarios registrados en la plataforma. *(Cómo se implementó ese campo en detalle está documentado en 02-Estructura-y-configuración-del-sistema-de-gestión.)*
 
-Se decidió comenzar utilizando **Jira Free**.
+---
 
-La elección se basó principalmente en que combina:
+## Criterios para evaluar una herramienta
 
-**gestión visual + simplicidad suficiente + aprendizaje profesional + costo inicial cero.**
+La experiencia nos enseñó que antes de invertir tiempo configurando una herramienta hay que comprobar si puede representar nuestro modelo de trabajo. Como mínimo, estas son las preguntas que aplicamos:
 
-Jira permite representar el trabajo mediante tarjetas y visualizar rápidamente el estado general del proyecto, algo especialmente importante para LAPIN, ya que el proyecto no se trabaja necesariamente todos los días.
+1. **¿Permite campos configurables para representar Roles**, independientes del usuario que opera la herramienta?
+2. **¿Podemos diferenciar los Roles a simple vista**, sin abrir cada actividad individualmente?
+3. **¿El tablero es amigable?** No alcanza con que una función exista si usarla implica demasiada navegación o carga administrativa.
+4. **¿Podemos filtrar y agrupar usando campos configurables** como el Rol responsable?
+5. **¿Permite tags o etiquetas** para clasificaciones flexibles que no justifiquen un campo estructurado propio?
+6. **¿Puede integrarse o automatizarse con IA** a futuro, aunque no sea necesario desde el día uno?
+7. **¿Puede relacionarse con un sistema de registro de horas**, aunque viva en otra herramienta, siempre que la relación entre ambos sea confiable?
 
-Además, existe una versión gratuita permanente adecuada para la escala actual de LAPIN DIGITAL, por lo que es posible utilizar la herramienta en un proyecto real sin depender de un período de prueba limitado.
+### Otros aspectos considerados
+Backlog, estados y flujo de trabajo, prioridades, estimación, métricas, trazabilidad por fechas, costo, facilidad de mantenimiento y posibilidad de crecimiento. Que una herramienta tenga muchas funciones no la vuelve automáticamente una buena opción — lo que importa es que lo que realmente necesitamos sea **práctico de usar**.
 
-Otro factor importante fue el aprendizaje.
+---
 
-Azure DevOps ya forma parte de las herramientas utilizadas habitualmente, por lo que incorporar Jira permite experimentar con otra herramienta ampliamente utilizada en proyectos tecnológicos mientras se gestiona un proyecto real.
+## Criterio adoptado
 
-## Separación de responsabilidades entre herramientas
+Primero definimos cómo necesita trabajar LAPIN. Después elegimos la herramienta que mejor se adapte a ese modelo — nunca al revés. La herramienta puede cambiar con el tiempo; lo que debe mantenerse es la capacidad de organizar el trabajo de LAPIN de forma clara, medible y con la menor fricción posible.
 
-Por el momento se establece la siguiente separación:
-
-### GitHub
-
-Será principalmente la **memoria del proyecto**.
-
-Contendrá:
-
-* decisiones;
-* evolución;
-* documentación;
-* conocimiento generado;
-* código y repositorios;
-* ejemplos o archivos que tenga sentido conservar junto al proyecto.
-
-### Jira
-
-Será principalmente la **gestión del trabajo**.
-
-Permitirá visualizar:
-
-* qué hay que hacer;
-* qué se está haciendo;
-* qué está bloqueado;
-* qué está terminado;
-* qué rol debe realizar cada tarea;
-* qué debería hacerse a continuación.
-
-De esta manera:
-
-> **GitHub registra el camino recorrido. Jira muestra dónde estamos y qué falta hacer.**
-
-## Consideración futura
-
-La elección de Jira no se considera irreversible.
-
-LAPIN DIGITAL es también un espacio de experimentación, por lo que la herramienta será evaluada mediante su uso real.
-
-Si con el crecimiento del proyecto Jira deja de resultar conveniente por costos, limitaciones o integración con otras herramientas, podrá reemplazarse manteniendo el modelo de trabajo y migrando las tareas necesarias.
-
-La herramienta acompaña el proceso; **no define el proceso**.
+> La herramienta acompaña el proceso. No lo define.

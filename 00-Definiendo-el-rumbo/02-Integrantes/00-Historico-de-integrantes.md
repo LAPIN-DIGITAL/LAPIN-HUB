@@ -19,3 +19,5 @@
 | LD-GSMedia | Growth & Social Media | Activo | 14/08/2026 | Hacer visible el trabajo de LAPIN y construir una audiencia real para validar ideas, metodología y futuros productos. | — | — |
 | LD-WMAdm | Jira Administrator | Inactivo | 14/08/2026 | Administrar Jira como herramienta de gestión de LAPIN DIGITAL. | 15/08/2026 | Jira fue descartado como herramienta y el alcance del puesto evolucionó hacia la administración general del sistema de gestión. |
 | LD-WMAdm | Work Management Administrator | Activo | 15/08/2026 | Administrar, mantener y evolucionar el sistema de gestión utilizado por LAPIN DIGITAL, independientemente de la herramienta adoptada. | — | — |
+| LD-QAR | Quality Assurance & Review | Activo | 18/08/2026 | Revisar la documentacion antes de subirla al repositorio | — | — |
+
