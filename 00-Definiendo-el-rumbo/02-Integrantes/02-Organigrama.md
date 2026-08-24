@@ -14,9 +14,9 @@ La estructura puede evolucionar conforme aparezcan nuevas necesidades, Roles y �
 - **CEO** — Estrategia y dirección.
 
 ## Organización y Procesos
-- **LD-DP** — Revisa documentación y procesos.
+- **LD-DP** — Revisa la documentación y los procesos organizacionales.
 - **Recursos Humanos** — Gestiona Roles e Integrantes.
-- **K&D** — Documenta procesos organizacionales.
+- **K&D** — Documenta procesos y conocimiento organizacional.
 
 ## Tecnología
 - **Project Manager** — Planifica y coordina el trabajo.
@@ -32,3 +32,7 @@ La estructura puede evolucionar conforme aparezcan nuevas necesidades, Roles y �
 
 ## Soporte transversal
 - **WMA** — Evalúa, administra y brinda soporte sobre herramientas de trabajo.
+
+
+---
+K&D produce/documenta → DP revisa y recomienda → PM organiza las acciones resultantes.
