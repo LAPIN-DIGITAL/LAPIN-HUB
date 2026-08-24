@@ -31,7 +31,7 @@ La estructura puede evolucionar conforme aparezcan nuevas necesidades, Roles y �
 - **Growth & Social Media** — Desarrolla audiencia, contenido y redes.
 
 ## Soporte transversal
-- **WMA** — Evalúa, administra y brinda soporte sobre herramientas de trabajo.
+- **LD-Tools** — Evalúa, recomienda y brinda soporte sobre herramientas de trabajo.
 
 
 ---

@@ -18,7 +18,8 @@
 | LD-HR | Human Resources | Activo | 14/08/2026 | Gestionar la estructura de roles de LAPIN, evitando superposición de responsabilidades, duplicación de trabajo y costos de coordinación innecesarios. | — | — |
 | LD-GSMedia | Growth & Social Media | Activo | 14/08/2026 | Hacer visible el trabajo de LAPIN y construir una audiencia real para validar ideas, metodología y futuros productos. | — | — |
 | LD-WMAdm | Jira Administrator | Inactivo | 14/08/2026 | Administrar Jira como herramienta de gestión de LAPIN DIGITAL. | 15/08/2026 | Jira fue descartado como herramienta y el alcance del puesto evolucionó hacia la administración general del sistema de gestión. |
-| LD-WMAdm | Work Management Administrator | Activo | 15/08/2026 | Administrar, mantener y evolucionar el sistema de gestión utilizado por LAPIN DIGITAL, independientemente de la herramienta adoptada. | — | — |
+| LD-WMAdm | Work Management Administrator | Reemplazado | 15/08/2026 | Administrar, mantener y evolucionar el sistema de gestión utilizado por LAPIN DIGITAL, independientemente de la herramienta adoptada. | 24/08/2026 | El puesto evolucionó hacia una función transversal sobre herramientas de trabajo, dando origen a LD-Tools. |
 | LD-QAR | Quality Assurance & Review | Activo | 18/08/2026 | Revisar la documentacion antes de subirla al repositorio | 24/08/2026 | El puesto no reflejaba bien la actividad |
-| LD-DP | Documentation & Process | Activo | 24/08/2026 | Revisa la documentación y los procesos organizacionales. | | |
+| LD-DP | Documentation & Process | Activo | 24/08/2026 | Revisa la documentación y los procesos organizacionales. | — | — |
+| LD-Tools | Tools Specialist | Activo | 24/08/2026 | Evaluar, recomendar y brindar soporte sobre las herramientas de trabajo utilizadas o requeridas por LAPIN DIGITAL. | — | — |
 | LD-PM | IT Project Manager | Activo | 21/08/2026 | Necesidad de asistir en la planificación, priorización, identificación de dependencias, coordinación del trabajo y determinación del Rol responsable de cada actividad | — | — |
