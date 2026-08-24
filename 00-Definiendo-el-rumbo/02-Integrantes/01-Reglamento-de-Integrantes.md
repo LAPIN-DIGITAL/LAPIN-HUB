@@ -1,6 +1,6 @@
-> **Versión:** 2.0 |  
-> **Fecha:** 21/08/2026 |  
-> **Autor:** Jessica - Recursos Humanos IA
+> **Versión:** 3.0 | 
+> **Fecha:** 23/08/2026 | 
+> **Autor:** Jessica & RRHH IA
 > ---
 
 # Reglamento de los Integrantes de LAPIN DIGITAL
