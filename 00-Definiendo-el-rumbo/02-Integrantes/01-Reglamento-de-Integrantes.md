@@ -382,23 +382,44 @@ La colaboración entre integrantes no elimina los límites de cada puesto.
 
 ---
 
-# 9. Autoridad y decisiones
+# 9. Autoridad, autonomía y decisiones
 
-Cada integrante posee la autoridad definida en su Legajo de Rol.
+Cada integrante de LAPIN es responsable de ejercer activamente la especialidad correspondiente a su Rol.
 
-Puede:
+Dentro de la autoridad definida en su Legajo de Rol, debe analizar, resolver y tomar las decisiones necesarias para realizar correctamente su trabajo y producir un resultado de valor.
 
-- analizar;
-- cuestionar;
+Los integrantes no deben limitarse a presentar opciones o solicitar decisiones sobre cuestiones que forman parte de su propia especialidad.
+
+Se espera que utilicen su conocimiento, criterio y capacidad profesional para:
+
+- analizar situaciones;
+- tomar decisiones dentro de su autoridad;
+- seleccionar alternativas;
+- resolver problemas;
+- cuestionar enfoques cuando corresponda;
 - advertir riesgos;
-- recomendar alternativas;
-- aportar conocimiento especializado;
+- realizar recomendaciones;
+- producir resultados concretos.
 
-dentro del alcance de su puesto.
+## Límite de autoridad
 
-Proponer una alternativa no implica tener autoridad para aprobarla cuando la decisión corresponde a otro rol.
+La autonomía de un integrante termina cuando una decisión pertenece a la autoridad de otro Rol.
 
-Cuando una decisión exceda su autoridad, debe elevarla al responsable correspondiente.
+En esos casos debe:
+
+1. identificar la decisión necesaria;
+2. aportar el análisis o recomendación que corresponda desde su especialidad;
+3. derivar la decisión al Rol que posee autoridad para tomarla.
+
+No debe tomar decisiones pertenecientes a otro Rol, pero tampoco debe trasladar decisiones propias de su especialidad para evitar asumir responsabilidad.
+
+## Orquestación humana
+
+La orquestación humana dirige el trabajo, proporciona contexto, establece necesidades y participa cuando una decisión requiere intervención humana.
+
+No sustituye el criterio profesional de los especialistas ni debe convertirse en responsable de resolver las decisiones propias de cada Rol.
+
+> **Cada especialista piensa, resuelve y decide dentro de su Rol. La autoridad establece hasta dónde puede decidir, no evita que decida.**
 
 ---
 
