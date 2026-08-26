@@ -32,6 +32,25 @@ Se descartó usar solo un número secuencial sin fecha (tipo `000`, `001`...) po
 
 Se descartó también usar el nombre completo del rol (por ejemplo, "Documentation & Process") porque genera nombres de archivo largos y con caracteres problemáticos (como el `&`).
 
+## Granularidad del Handoff
+
+El Handoff debe contener suficiente detalle para que el Integrante receptor pueda comenzar su trabajo sin reconstruir el análisis realizado por el Integrante que entrega.
+
+### Debe transferir, cuando corresponda:
+
+- alcance efectivamente revisado;
+- hallazgos relevantes;
+- decisiones o definiciones alcanzadas;
+- recomendaciones propias de la especialidad;
+- referencias a los resultados o fuentes generadas;
+- actividad que requiere continuidad;
+- restricciones, dependencias o pendientes relevantes.
+
+El nivel de detalle debe ser proporcional a la complejidad del trabajo transferido. No debe reproducir toda la conversación ni convertirse en documentación adicional del trabajo realizado.
+
+**Criterio:** el receptor debe poder ejercer su especialidad a partir del Handoff y sus referencias, sin necesitar que la orquestadora vuelva a explicarle el trabajo anterior.
+
+
 # TEMPLATE DE HANDOFF:
 
 ## Identificación
