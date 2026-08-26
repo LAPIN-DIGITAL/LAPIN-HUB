@@ -1,10 +1,23 @@
-> **Versión:** 1.0
-> **Fecha:** 19/08/2026
+> **Versión:** 2.0
+> **Fecha:** 26/08/2026
 > **Autor:** Jessica + LAPIN Knowledge & Documentation
 
 # Template de tarea
 
+Este template contiene los dos momentos de registro de una tarea: **Apertura y Cierre**.
+
+**No deben generarse ambos al mismo tiempo.**
+
+- La **Apertura** se genera al iniciar una nueva actividad, antes de comenzar el trabajo.
+- Una vez generada la Apertura, el Integrante comienza inmediatamente a desarrollar la actividad.
+- El **Cierre** se genera únicamente cuando la actividad haya finalizado.
+- Si durante el trabajo se requieren consultas, análisis, correcciones o ajustes, se continúa trabajando sobre la misma tarea y **no se genera el Cierre hasta finalizar la actividad**.
+
+---
+
 ## Apertura
+
+Generar únicamente al iniciar la actividad.
 
 **Título:** corto, descriptivo del tema que se está tratando (5-6 palabras máximo, no repetir la descripción).
 
@@ -15,6 +28,8 @@
 ---
 
 ## Cierre
+
+Generar únicamente cuando la actividad haya finalizado.
 
 **Estado:** completada / pendiente / bloqueada.
 

@@ -107,6 +107,16 @@ Cuando se determina que corresponde incorporar un nuevo integrante:
 
 El **Reglamento + Legajo de Rol** constituyen la base del onboarding del nuevo integrante.
 
+## 4.1 Contexto obligatorio del Integrante
+
+Todo Integrante debe disponer como contexto base de:
+
+1. **LAPIN HUB** — contexto y conocimiento organizacional vigente.
+2. **Reglamento de los Integrantes** — reglas generales de funcionamiento y flujo de trabajo.
+3. **Legajo de Rol** — propósito, responsabilidades, autoridad, alcance y límites específicos del puesto.
+
+Estos elementos constituyen el contexto obligatorio para el onboarding y funcionamiento del Integrante.
+
 ---
 
 # 5. Evolución y baja de integrantes
@@ -159,64 +169,83 @@ Toda actividad de trabajo realizada por un integrante de LAPIN debe quedar regis
 
 ## 7.1 Ciclo básico de una actividad
 
-Toda actividad realizada por un Integrante sigue, como regla general, el siguiente ciclo:
+Toda actividad realizada por un Integrante sigue el siguiente ciclo:
 
 ### 1. Inicio de la necesidad
 
-La orquestadora inicia la interacción proporcionando el contexto básico necesario para que el Integrante comprenda la necesidad.
+La orquestadora inicia la interacción proporcionando el contexto necesario para que el Integrante comprenda la necesidad.
 
-El contexto puede originarse en:
+La entrada puede originarse en:
 
 - una necesidad puntual;
+- un requerimiento;
 - una decisión;
 - un problema detectado;
-- un requerimiento;
-- el resultado o entregable generado previamente por otro Integrante.
+- un **Handoff generado por otro Integrante**.
 
-La orquestadora no necesita definir previamente la tarea. Debe proporcionar contexto suficiente para que el especialista pueda comprender qué trabajo corresponde realizar.
+La orquestadora no necesita definir previamente la tarea. Debe proporcionar contexto suficiente para que el especialista pueda identificar qué trabajo corresponde realizar.
 
 ### 2. Apertura de la tarea
 
-Antes de comenzar el desarrollo, el Integrante analiza la necesidad y propone su propia tarea utilizando el **Template de tarea vigente**.
+Antes de comenzar el trabajo, el Integrante crea su propia propuesta de tarea utilizando el **Template de tarea vigente**.
 
 La tarea formaliza qué actividad realizará y qué busca lograr.
 
+Una vez generada la apertura, el Integrante comienza inmediatamente el desarrollo de la actividad.
+
 ### 3. Desarrollo de la actividad
 
-Una vez registrada la tarea, el Integrante comienza el trabajo correspondiente a su especialidad.
+El Integrante realiza el trabajo correspondiente a su especialidad.
 
-Durante su desarrollo puede utilizar como entrada:
+Durante la ejecución puede:
 
-- el contexto proporcionado por la orquestadora;
-- documentación existente;
-- entregables producidos por otros Integrantes;
-- información adicional necesaria para realizar correctamente su trabajo.
+- analizar;
+- consultar;
+- conversar;
+- debatir alternativas;
+- solicitar información faltante;
+- revisar documentación;
+- realizar correcciones y ajustes necesarios para alcanzar el objetivo.
 
-### 4. Generación de la salida
+Estas acciones forman parte de la misma actividad y **no generan nuevas tareas**.
 
-Cuando finaliza su actividad, el Integrante debe generar una salida que permita cerrar su intervención.
+### 4. Finalización de la actividad
 
-Según corresponda, esta salida puede ser:
+Cuando el trabajo correspondiente a su especialidad está terminado pueden ocurrir dos situaciones:
 
-**Salida con continuidad:** un entregable que contenga el resultado de su trabajo y la información necesaria para que otro Integrante pueda iniciar la siguiente actividad.
+#### A. La actividad no requiere continuidad
 
-**Salida de cierre:** un entregable que resuma el trabajo realizado y su resultado cuando no exista una actividad posterior que deba continuar el flujo.
+Si no existe trabajo posterior que deba realizar otro Integrante, se procede directamente al cierre de la tarea.
 
-El Integrante que finaliza no debe realizar el trabajo correspondiente al siguiente Rol. Debe proporcionar una salida suficientemente clara para que ese especialista pueda iniciar su propia actividad.
+#### B. La actividad requiere continuidad
+
+Si el resultado genera trabajo que corresponde a otro Integrante, debe crear un **Handoff utilizando el Template de Handoff vigente**.
+
+El Handoff debe contener la información necesaria para que el siguiente Integrante pueda comprender la necesidad e iniciar su propia actividad sin reconstruir la conversación anterior.
+
+Generar el Handoff no implica realizar el trabajo del siguiente Rol.
+
+Una vez generado, el Integrante procede al cierre de su propia tarea.
 
 ### 5. Cierre de la tarea
 
-Una vez generado el resultado correspondiente, el Integrante proporciona la información de cierre definida en el **Template de tarea vigente** y la actividad puede cerrarse en el sistema de gestión.
+Toda actividad finaliza con el cierre de su tarea.
 
-El cierre administrativo ocurre después de que el resultado del trabajo haya quedado correctamente registrado o transferido.
+El Integrante debe proporcionar la información de cierre utilizando el **Template de tarea vigente**.
+
+El cierre registra el resultado generado, el trabajo realizado y los pendientes que correspondan.
+
+El Handoff, cuando exista, **no reemplaza el cierre de la tarea**.
 
 ### Flujo general
 
-> **Contexto → Tarea → Desarrollo → Salida → Cierre**
+Sin continuidad:
 
-Cuando existe continuidad entre especialidades:
+> **Contexto → Apertura de tarea → Desarrollo → Cierre**
 
-> **Contexto → Tarea → Desarrollo → Salida → Cierre → siguiente Integrante → nueva Tarea → Desarrollo → nueva Salida → Cierre**
+Con continuidad:
+
+> **Contexto/Handoff → Apertura de tarea → Desarrollo → Handoff → Cierre → siguiente Integrante → nueva Tarea**
 
 ## 7.2 Inicio de una nueva actividad
 
@@ -291,17 +320,25 @@ Una vez generado el resultado:
 
 ## 7.6 Transferencia de trabajo entre Integrantes
 
-Cuando el resultado de una actividad deba ser utilizado por otro Integrante para continuar el trabajo, el Rol que finaliza debe generar una salida suficientemente clara y reutilizable para funcionar como entrada del siguiente.
+Cuando el resultado de una actividad requiera que otro Integrante continúe el trabajo, el Integrante que finaliza debe generar un **Handoff utilizando el Template de Handoff vigente**.
+
+El Handoff constituye la transferencia formal de trabajo entre Integrantes y debe contener la información necesaria para que el siguiente especialista pueda:
+
+- comprender el contexto;
+- conocer qué se resolvió;
+- identificar qué necesita continuar;
+- comprender el resultado esperado;
+- iniciar su propia actividad sin reconstruir la conversación anterior.
 
 El flujo esperado es:
 
-> **Entrada → trabajo especializado → salida → entrada del siguiente Rol**
+> **Trabajo especializado → Handoff → Cierre de tarea → siguiente Integrante → nueva Tarea**
 
-Cada Integrante es responsable de producir el resultado correspondiente a su especialidad.
+Cada Integrante es responsable únicamente del trabajo correspondiente a su especialidad.
 
-No debe realizar anticipadamente el trabajo del siguiente Rol solamente para completar la cadena.
+El Integrante que genera el Handoff no debe realizar anticipadamente el trabajo del siguiente Rol solamente para completar la cadena.
 
-La salida debe contener la información necesaria para que el siguiente Integrante pueda comprender qué se resolvió, qué resultado se obtuvo y qué necesita continuar, sin depender de la reconstrucción de la conversación anterior.
+El **Handoff no reemplaza el cierre de la tarea**. Una vez generado, el Integrante debe cerrar su propia actividad utilizando el Template de tarea vigente.
 
 ## 7.7 Intervención humana en la transferencia
 
