@@ -76,7 +76,7 @@ Cuando un integrante detecte una necesidad que se encuentre fuera del alcance de
 3. identificar, cuando sea posible, qué rol debería intervenir;
 4. derivar la necesidad al especialista correspondiente.
 
-Si LAPIN no dispone actualmente de un rol adecuado para resolverla, debe informarse a la Project Manager para determinar cómo proceder.
+Si LAPIN no dispone actualmente de un Rol adecuado para resolverla, debe señalarse la necesidad para determinar cómo proceder.
 
 **No debe resolverse una actividad fuera de alcance simplemente para poder continuar.**
 
@@ -171,81 +171,23 @@ Toda actividad de trabajo realizada por un integrante de LAPIN debe quedar regis
 
 Toda actividad realizada por un Integrante sigue el siguiente ciclo:
 
-### 1. Inicio de la necesidad
-
-La orquestadora inicia la interacción proporcionando el contexto necesario para que el Integrante comprenda la necesidad.
-
-La entrada puede originarse en:
-
-- una necesidad puntual;
-- un requerimiento;
-- una decisión;
-- un problema detectado;
-- un **Handoff generado por otro Integrante**.
-
-La orquestadora no necesita definir previamente la tarea. Debe proporcionar contexto suficiente para que el especialista pueda identificar qué trabajo corresponde realizar.
-
-### 2. Apertura de la tarea
-
-Antes de comenzar el trabajo, el Integrante crea su propia propuesta de tarea utilizando el **Template de tarea vigente**.
-
-La tarea formaliza qué actividad realizará y qué busca lograr.
-
-Una vez generada la apertura, el Integrante comienza inmediatamente el desarrollo de la actividad.
-
-### 3. Desarrollo de la actividad
-
-El Integrante realiza el trabajo correspondiente a su especialidad.
-
-Durante la ejecución puede:
-
-- analizar;
-- consultar;
-- conversar;
-- debatir alternativas;
-- solicitar información faltante;
-- revisar documentación;
-- realizar correcciones y ajustes necesarios para alcanzar el objetivo.
-
-Estas acciones forman parte de la misma actividad y **no generan nuevas tareas**.
-
-### 4. Finalización de la actividad
-
-Cuando el trabajo correspondiente a su especialidad está terminado pueden ocurrir dos situaciones:
-
-#### A. La actividad no requiere continuidad
-
-Si no existe trabajo posterior que deba realizar otro Integrante, se procede directamente al cierre de la tarea.
-
-#### B. La actividad requiere continuidad
-
-Si el resultado genera trabajo que corresponde a otro Integrante, debe crear un **Handoff utilizando el Template de Handoff vigente**.
-
-El Handoff debe contener la información necesaria para que el siguiente Integrante pueda comprender la necesidad e iniciar su propia actividad sin reconstruir la conversación anterior.
-
-Generar el Handoff no implica realizar el trabajo del siguiente Rol.
-
-Una vez generado, el Integrante procede al cierre de su propia tarea.
-
-### 5. Cierre de la tarea
-
-Toda actividad finaliza con el cierre de su tarea.
-
-El Integrante debe proporcionar la información de cierre utilizando el **Template de tarea vigente**.
-
-El cierre registra el resultado generado, el trabajo realizado y los pendientes que correspondan.
-
-El Handoff, cuando exista, **no reemplaza el cierre de la tarea**.
+1. **Entrada:** recibe el contexto de una necesidad o un Handoff generado por otro Integrante.
+2. **Apertura:** crea su propia tarea utilizando el Template de tarea vigente.
+3. **Ejecución:** realiza el trabajo correspondiente a su especialidad.
+4. **Transferencia:** si el trabajo requiere continuidad por otro Integrante, genera el Handoff correspondiente.
+5. **Cierre:** finaliza su actividad utilizando el cierre definido en el Template de tarea vigente.
 
 ### Flujo general
 
 Sin continuidad:
 
-> **Contexto → Apertura de tarea → Desarrollo → Cierre**
+> **Contexto → Apertura → Ejecución → Cierre**
 
 Con continuidad:
 
-> **Contexto/Handoff → Apertura de tarea → Desarrollo → Handoff → Cierre → siguiente Integrante → nueva Tarea**
+> **Contexto/Handoff → Apertura → Ejecución → Handoff → Cierre → siguiente Integrante**
+
+Las reglas específicas de apertura, evolución, continuidad, cierre y transferencia se desarrollan en los puntos siguientes.
 
 ## 7.2 Inicio de una nueva actividad
 
@@ -342,23 +284,11 @@ El **Handoff no reemplaza el cierre de la tarea**. Una vez generado, el Integran
 
 ## 7.7 Intervención humana en la transferencia
 
-La persona que orquesta LAPIN no debe funcionar como mecanismo ordinario de transferencia de contexto entre Integrantes.
+La orquestación humana no debe funcionar como mecanismo ordinario de transferencia de contexto entre Integrantes.
 
-Cuando el trabajo de un Rol requiera continuidad en otro, la información necesaria debe quedar contenida en un entregable reutilizable que pueda ser utilizado directamente como entrada del siguiente.
-
-La intervención humana debe reservarse para:
-
-- decisiones;
-- validaciones;
-- prioridades;
-- excepciones;
-- resolución de ambigüedades;
-- información que requiera necesariamente participación humana.
-
-El objetivo es reducir el costo de coordinación, evitar pérdida o distorsión de información y permitir que el trabajo fluya entre especialidades de manera trazable.
+Cuando una actividad requiera continuidad por otro Rol, la transferencia debe realizarse mediante el Handoff correspondiente.
 
 > **La orquestación humana dirige el trabajo. No debe convertirse en el canal manual por el que circula todo el conocimiento.**
-
 
 ---
 
