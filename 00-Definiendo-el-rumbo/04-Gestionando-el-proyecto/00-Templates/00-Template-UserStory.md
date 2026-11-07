@@ -27,6 +27,8 @@ Generar únicamente al iniciar la actividad.
 
 **Descripción:** de qué se trata la tarea y qué se busca lograr.
 
+**Resultado esperado:** entregable, definición o resultado concreto que se espera obtener al finalizar la tarea, permitiendo verificar el cumplimiento de su objetivo.
+
 **Fecha y hora de inicio:** momento real en que comienza el trabajo, con zona horaria.
 
 **Tiempo estimado:** duración prevista para completar la tarea, indicando la unidad de medida. Si no existe una estimación confiable, indicar "Sin estimar".
