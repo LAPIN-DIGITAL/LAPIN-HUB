@@ -24,3 +24,4 @@
 | LD-Tools | Tools Specialist | Activo | 24/08/2026 | Evaluar, recomendar y brindar soporte sobre las herramientas de trabajo utilizadas o requeridas por LAPIN DIGITAL. | — | — |
 | LD-PM | IT Project Manager | Activo | 21/08/2026 | Necesidad de asistir en la planificación, priorización, identificación de dependencias, coordinación del trabajo y determinación del Rol responsable de cada actividad | — | — |
 | LD-ARQ | Arquitecto de Sistemas | Activo | 07/11/2026 | Definir y mantener la arquitectura técnica de los sistemas de LAPIN DIGITAL, asegurando soluciones viables, seguras, mantenibles y coherentes con las necesidades del negocio. | — | — |
+| LD-AF | Analista Funcional | Activo | 07/11/2026 | Analizar y transformar las necesidades del producto en requerimientos funcionales claros, consistentes y verificables, facilitando el trabajo de Arquitectura, Desarrollo, Diseño y QA. | — | — |
