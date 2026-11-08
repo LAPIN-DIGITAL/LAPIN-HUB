@@ -1,7 +1,7 @@
 > **Versión:** 2.1  
 > **Fecha:** 07/11/2026  
 > **Autor:** Jessica + LAPIN Knowledge & Documentation  
-> **Estado:** Propuesta de actualización
+
 
 # Template de tarea
 
