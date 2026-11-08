@@ -17,11 +17,10 @@ Establecer las reglas para registrar el tiempo y las actividades realizadas por 
 El registro permitirá:
 
 - Conocer el esfuerzo dedicado a cada tarea.
-- Diferenciar tiempo humano y tiempo de IA.
+- Diferenciar tiempo del Orquestador y tiempo de IA.
 - Identificar las actividades realizadas.
 - Mejorar las estimaciones de trabajo.
 - Evaluar la eficiencia del modelo organizacional.
-- Contrastar los registros con LAPIN Time Tracker.
 
 ## 2. Alcance
 
@@ -59,7 +58,7 @@ Si el registro automático no está disponible, se utilizará el mecanismo manua
 No deben inventarse horarios ni duraciones cuando no exista información confiable.
 
 ### 4.1. Responsabilidad sobre pausas y reanudaciones
-Cuando una persona trabaje con asistencia de IA, será responsabilidad del humano comunicar el inicio, las pausas, las reanudaciones y la finalización del trabajo.
+Cuando una persona trabaje con asistencia de IA, será responsabilidad de esa persona comunicar el inicio, las pausas, las reanudaciones y la finalización del trabajo.
 
 El Integrante IA deberá registrar los eventos comunicados utilizando horarios verificables.
 
@@ -85,19 +84,33 @@ La clasificación deberá utilizar los tipos de actividad aprobados por LAPIN DI
 
 Cuando una tarea incluya distintas actividades, sus períodos podrán registrarse por separado sin necesidad de crear nuevas tareas.
 
-## 6. Diferenciación de tiempos
+## 6. Diferenciación y asignación de tiempos
 
-Los registros deberán distinguir, cuando la información esté disponible:
+LAPIN DIGITAL registra de manera independiente el esfuerzo humano y el esfuerzo de los integrantes IA, con el objetivo de conocer el tiempo dedicado a cada tarea y evaluar la productividad del proyecto.
 
-**Tiempo humano:** esfuerzo realizado por una persona.
+**Tiempo humano:** tiempo efectivo que una persona dedica a ejecutar, investigar, coordinar o gestionar una tarea.
 
-**Tiempo de IA:** duración de la ejecución o procesamiento de una inteligencia artificial.
+**Tiempo de IA:** tiempo efectivo de trabajo de un integrante IA, determinado mediante registros verificables de sus sesiones o ejecuciones.
 
-**Tiempo transcurrido:** duración total entre el comienzo y la finalización del trabajo.
+**Tiempo transcurrido:** período comprendido entre el inicio y la finalización de una tarea, incluyendo las interrupciones. No representa necesariamente tiempo efectivo de trabajo.
 
-Estas medidas no son equivalentes y pueden superponerse.
+### 6.1. Asignación del tiempo a las tareas
 
-No se debe considerar automáticamente el tiempo de conversación como tiempo de procesamiento de IA, ni una sesión abierta como evidencia de trabajo humano continuo.
+Cada período de trabajo deberá imputarse a la tarea a la que efectivamente corresponde.
+
+Cuando una actividad tenga un objetivo independiente, deberá registrarse en su propia tarea, aunque contribuya a otra.
+
+Una misma tarea podrá involucrar trabajo humano y de IA. Ambos tiempos deberán registrarse por separado, sin atribuir a un integrante el esfuerzo realizado por otro.
+
+### 6.2. Medición del tiempo efectivo
+
+Cada integrante deberá registrar el inicio, las pausas, las reanudaciones y la finalización de sus sesiones de trabajo.
+
+El tiempo efectivo será la suma de los períodos de actividad, excluyendo las interrupciones.
+
+No se considerará automáticamente que una conversación abierta equivale a tiempo de ejecución de IA ni que una sesión abierta representa trabajo humano continuo.
+
+Cuando no existan mecanismos para medir el tiempo efectivo de IA, deberá identificarse la limitación y utilizar únicamente información verificable, sin inventar duraciones.
 
 ## 7. Registro de trabajo con IA
 
@@ -109,19 +122,26 @@ Los registros generados automáticamente deberán conservar su origen y permitir
 
 La ausencia de capacidades técnicas de registro automático no autoriza a generar información ficticia.
 
-## 8. Conciliación de registros
+## 8. Conciliación y auditoría de registros
 
-LAPIN DIGITAL podrá comparar:
+LAPIN DIGITAL deberá poder revisar los registros de tiempo para verificar su integridad, consistencia y correcta asignación a las tareas.
 
-- Tiempo declarado por la persona.
-- Tiempo registrado durante las sesiones.
-- Tiempo de ejecución de IA, cuando exista medición confiable.
+La auditoría deberá permitir:
 
-Las diferencias deberán considerarse indicadores para revisión.
+- Comparar el tiempo humano y el tiempo de IA registrado en cada tarea.
+- Verificar que los períodos de trabajo estén asignados a la tarea correspondiente.
+- Identificar registros faltantes, duplicados o inconsistentes.
+- Detectar posibles superposiciones de tiempo de un mismo integrante.
+- Contrastar los registros declarados con las mediciones disponibles.
+- Analizar el esfuerzo dedicado a cada tarea y proyecto en relación con los resultados obtenidos.
 
-**Una diferencia entre tiempos no constituye por sí misma evidencia de incumplimiento o improductividad.**
+Las diferencias detectadas deberán investigarse antes de realizar correcciones o extraer conclusiones sobre productividad.
 
-La evaluación deberá contemplar actividades fuera del entorno registrado, interrupciones, investigación, coordinación y otras circunstancias relevantes.
+Una discrepancia no constituye por sí misma evidencia de incumplimiento o improductividad.
+
+Los registros deberán conservar la distinción entre tiempos medidos, declarados y estimados, sin presentar estimaciones como mediciones verificadas.
+
+El objetivo de la auditoría es mejorar la calidad de la información, las estimaciones y la gestión del trabajo, evitando controles administrativos innecesarios.
 
 ## 9. Responsabilidades
 
@@ -145,14 +165,16 @@ El cumplimiento de este procedimiento deberá adaptarse a las capacidades reales
 
 La implementación podrá evolucionar desde registros manuales hacia mecanismos automáticos.
 
-Las funcionalidades que dependan de LAPIN Time Tracker o de agentes autónomos entrarán en funcionamiento cuando se encuentren disponibles y validadas.
+Los mecanismos de registro podrán evolucionar conforme a las capacidades y recursos disponibles, sin alterar las reglas del procedimiento.
 
-**La automatización futura no debe asumirse como una capacidad actualmente existente.**
+La incorporación o sustitución de herramientas deberá preservar la trazabilidad y continuidad de los registros.
+
+**No se deben asumir funcionalidades que aún no están implementadas.**
 
 ## 11. Documentos relacionados
 
 - `01-Reglamento-de-Integrantes.md`
-- `03-Transferencia-de-Trabajo-entre-Integrantes.md`
+- `02-Integrantes/02-Procedimientos/00-Transferencia-de-Trabajo-entre-Integrantes.md`
 - `03-Evolucion-del-Modelo/06-Registro-y-Medicion-del-Trabajo.md`
 - Template de tarea vigente.
 

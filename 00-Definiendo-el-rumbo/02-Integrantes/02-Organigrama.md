@@ -1,38 +1,50 @@
-> **Versión:** 1.0 | 
-> **Fecha:** 23/08/2026 | 
-> **Autor:** Jessica & HR IA
-> ---
+> **Tipo:** Organigrama  
+> **Versión:** 1.1  
+> **Fecha:** 07/11/2026  
+> **Autor:** Jessica + Documentation & Process IA
+
+---
 
 # Organigrama de LAPIN DIGITAL
 
-El organigrama representa la estructura funcional vigente de LAPIN DIGITAL.
+El organigrama representa la estructura funcional de LAPIN DIGITAL, organizada por áreas de especialización y responsabilidades.
 
-La estructura puede evolucionar conforme aparezcan nuevas necesidades, Roles y áreas de trabajo.
+No establece relaciones jerárquicas entre integrantes. Cada especialista es responsable de producir resultados dentro del alcance de su rol.
 
+La estructura evoluciona conforme surgen necesidades reales, procurando evitar la incorporación innecesaria de roles y costos de coordinación.
 
 ## Dirección
-- **CEO** — Estrategia y dirección.
+
+- **LD-CEO — CEO:** Asesora en estrategia, negocio y evaluación de oportunidades.
 
 ## Organización y Procesos
-- **LD-DP** — Revisa la documentación y los procesos organizacionales.
-- **Recursos Humanos** — Gestiona Roles e Integrantes.
-- **K&D** — Documenta procesos y conocimiento organizacional.
+
+- **LD-DP — Documentation & Process:** Revisa y mejora la documentación y los procesos organizacionales.
+- **LD-HR — Recursos Humanos:** Gestiona los roles y la estructura de integrantes.
 
 ## Tecnología
-- **Project Manager** — Planifica y coordina el trabajo.
-  - **Product Owner** — Define el producto.
-  - **Analista Funcional** — Define requerimientos.
-  - **UI/UX** — Diseña experiencia e interfaces.
-  - **Arquitectura** — Define arquitectura.
-  - **Development** — Desarrolla software.
-  - **QA Software** — Valida software.
+
+- **LD-PM — IT Project Manager:** Planifica, organiza y coordina el trabajo del equipo tecnológico.
+- **LD-AF — Analista Funcional:** Analiza necesidades y define requerimientos funcionales.
+- **LD-UIUX — UI/UX Designer:** Diseña experiencias e interfaces.
+- **LD-ARQ — Arquitecto de Sistemas:** Define la arquitectura técnica.
+- **LD-SRDEV — Senior Developer:** Desarrolla soluciones de software.
+- **QA Software — Previsto:** Diseña y ejecuta pruebas para validar la calidad del software. Pendiente de incorporación.
 
 ## Marketing y Comunicación
-- **Growth & Social Media** — Desarrolla audiencia, contenido y redes.
+
+- **LD-GSMedia — Growth & Social Media:** Desarrolla estrategias de posicionamiento, comunicación y crecimiento de la presencia digital.
 
 ## Soporte transversal
-- **LD-Tools** — Evalúa, recomienda y brinda soporte sobre herramientas de trabajo.
 
+- **LD-Tools — Tools Specialist:** Evalúa, recomienda y brinda soporte sobre herramientas de trabajo.
 
 ---
-K&D produce/documenta → DP revisa y recomienda → PM organiza las acciones resultantes.
+
+## Criterio organizacional
+
+LAPIN DIGITAL prioriza la especialización, la colaboración y la generación de resultados por encima de las estructuras jerárquicas complejas.
+
+La incorporación, evolución o baja de roles responde a necesidades concretas y debe considerar su valor frente al costo de coordinación.
+
+La estructura de roles activos se complementa con el **Histórico de Integrantes** y los correspondientes **Legajos de Rol**.

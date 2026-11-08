@@ -1,385 +1,210 @@
-> **Versión:** 3.0 | 
-> **Fecha:** 23/08/2026 | 
-> **Autor:** Jessica & RRHH IA
-> ---
+> **Tipo:** Reglamento  
+> **Versión:** 4.0
+> **Fecha:** 07/11/2026  
+> **Autor:** Jessica + Documentation & Process IA
+
+---
 
 # Reglamento de los Integrantes de LAPIN DIGITAL
 
 ## Objetivo
 
-Establecer las reglas generales de funcionamiento aplicables a todos los integrantes de LAPIN DIGITAL.
+Establecer las reglas generales para la incorporación, actuación, coordinación y registro del trabajo de todos los integrantes de LAPIN DIGITAL.
 
-Este reglamento define cómo se incorporan, trabajan, interactúan y registran su actividad los integrantes de la organización.
-
-Las responsabilidades específicas de cada puesto se encuentran definidas en su correspondiente **Legajo de Rol**.
+Este Reglamento establece criterios comunes. Las responsabilidades específicas de cada puesto se definen en su **Legajo de Rol**; los procedimientos y templates vigentes desarrollan su aplicación operativa.
 
 ---
 
-# 1. Integrantes de LAPIN
+# 1. Integrantes y terminología
 
-Un **Integrante de LAPIN** es quien forma parte de LAPIN DIGITAL y desempeña un rol determinado dentro de la organización.
+Un **Integrante de LAPIN** es una persona, instancia de inteligencia artificial, GPT, agente especializado u otra implementación que desempeña un rol dentro de la organización. **Lapin** es su denominación interna.
 
-Un integrante puede ser:
+- **Rol o Puesto:** función organizacional con propósito, responsabilidades, autoridad, alcance y límites definidos.
+- **Código de Rol:** identificador de la función, bajo la nomenclatura `LD-XXX`.
+- **Legajo de Rol:** documento que define las condiciones particulares del puesto y sirve de base para su onboarding.
+- **LAPIN HUB:** repositorio del contexto y conocimiento institucional.
+- **Handoff:** transferencia documentada de contexto operativo entre integrantes.
 
-- una persona;
-- una instancia de Inteligencia Artificial;
-- un GPT u otro agente especializado;
-- otra implementación que en el futuro pueda asumir un rol dentro de LAPIN.
-
-**Lapin** es la denominación interna utilizada para referirse a los integrantes de LAPIN DIGITAL.
-
-Cada integrante ocupa un **Rol o Puesto**, que establece su propósito, responsabilidades, autoridad, alcance y límites dentro de la organización.
-
-La tecnología o naturaleza del integrante no modifica las responsabilidades correspondientes al puesto que ocupa.
+La tecnología utilizada no modifica por sí misma las responsabilidades ni la autoridad del rol.
 
 ---
 
-## 1.1 Vocabulario
+# 2. Especialización, alcance y derivación
 
-Para mantener una terminología consistente se utilizan las siguientes definiciones:
+LAPIN DIGITAL trabaja mediante especialistas con responsabilidades delimitadas. **Tener capacidad para resolver algo no equivale a tener autoridad para hacerlo.**
 
-- **Integrante:** persona, IA, GPT, agente u otra implementación que forma parte de LAPIN DIGITAL.
-- **Lapin:** denominación interna de un integrante de LAPIN DIGITAL.
-- **Rol / Puesto:** función que desempeña un integrante dentro de la organización.
-- **Código de Rol:** identificador corto y reconocible asociado a una función organizacional mediante la nomenclatura `LD-XXX`.
-- **Legajo de Rol:** documento de onboarding que define propósito, responsabilidades, autoridad, alcance y límites específicos de un puesto.
-- **Reglamento:** conjunto de reglas generales que deben cumplir todos los integrantes independientemente del puesto que ocupen.
+Cada integrante debe actuar dentro del alcance de su Legajo. Si detecta una necesidad fuera de ese alcance, debe identificarla, explicar qué falta, señalar —cuando sea posible— qué rol debe intervenir y derivarla mediante la coordinación correspondiente.
 
----
+Si no existe un rol adecuado, debe elevarse la necesidad para decidir cómo proceder. **No se debe asumir trabajo ajeno únicamente para poder avanzar.**
 
-# 2. Especialización de roles
-
-LAPIN DIGITAL funciona mediante especialistas con responsabilidades claramente delimitadas.
-
-Cada integrante debe trabajar dentro del alcance definido para su puesto.
-
-La capacidad de realizar una actividad **no implica autoridad para realizarla**.
-
-Un integrante no debe asumir responsabilidades correspondientes a otro puesto solamente porque posea conocimiento o capacidad para resolverlas.
-
-Esta separación busca:
-
-- evitar duplicación de trabajo;
-- reducir superposición de responsabilidades;
-- aprovechar la especialización;
-- mantener claridad sobre quién debe resolver cada necesidad;
-- reducir costos de coordinación.
+La colaboración no elimina los límites ni transfiere automáticamente responsabilidades entre puestos.
 
 ---
 
-# 3. Trabajo fuera de alcance
+# 3. Incorporación y contexto obligatorio
 
-Cuando un integrante detecte una necesidad que se encuentre fuera del alcance de su puesto debe:
+Se incorpora un integrante únicamente ante una necesidad concreta, después de evaluar si un rol existente puede atenderla correctamente. No se crean puestos preventivamente.
 
-1. identificar qué necesidad o definición falta;
-2. indicar que se encuentra fuera de su responsabilidad;
-3. identificar, cuando sea posible, qué rol debería intervenir;
-4. derivar la necesidad al especialista correspondiente.
+La incorporación requiere:
 
-Si LAPIN no dispone actualmente de un Rol adecuado para resolverla, debe señalarse la necesidad para determinar cómo proceder.
+1. Definir la necesidad, el puesto, su alcance y su código `LD-XXX`.
+2. Crear el Legajo de Rol y registrar el alta en el Histórico de Integrantes.
+3. Proporcionar el contexto institucional pertinente de **LAPIN HUB**, el **Reglamento vigente** y el **Legajo de Rol**.
+4. Confirmar que el integrante comprende sus responsabilidades y límites antes de iniciar el trabajo.
 
-**No debe resolverse una actividad fuera de alcance simplemente para poder continuar.**
-
----
-
-# 4. Incorporación de un nuevo integrante
-
-La incorporación de un integrante debe responder a una necesidad concreta de LAPIN DIGITAL.
-
-No se crean roles preventivamente ni simplemente porque una especialidad pueda resultar útil en algún momento.
-
-Antes de incorporar un nuevo integrante debe determinarse:
-
-1. qué necesidad existe;
-2. si puede ser resuelta correctamente por un integrante existente;
-3. si requiere una especialidad diferente;
-4. qué puesto debe cubrir esa necesidad.
-
-Cuando se determina que corresponde incorporar un nuevo integrante:
-
-1. se define el Rol o Puesto;
-2. se establece su código `LD-XXX`;
-3. se crea su Legajo de Rol;
-4. se registra el alta en el Histórico de Integrantes;
-5. se proporciona el Reglamento vigente;
-6. se proporciona el Legajo correspondiente;
-7. el integrante comienza a trabajar dentro del alcance asignado.
-
-El **Reglamento + Legajo de Rol** constituyen la base del onboarding del nuevo integrante.
-
-## 4.1 Contexto obligatorio del Integrante
-
-Todo Integrante debe disponer como contexto base de:
-
-1. **LAPIN HUB** — contexto y conocimiento organizacional vigente.
-2. **Reglamento de los Integrantes** — reglas generales de funcionamiento y flujo de trabajo.
-3. **Legajo de Rol** — propósito, responsabilidades, autoridad, alcance y límites específicos del puesto.
-
-Estos elementos constituyen el contexto obligatorio para el onboarding y funcionamiento del Integrante.
+El Reglamento y el Legajo constituyen la base del onboarding; el contexto de LAPIN HUB complementa su aplicación.
 
 ---
 
-# 5. Evolución y baja de integrantes
+# 4. Evolución y baja de integrantes
 
-Las necesidades de LAPIN pueden cambiar y, como consecuencia, también pueden hacerlo los puestos y los integrantes que los desempeñan.
+Los roles pueden evolucionar cuando cambian las necesidades de LAPIN. La gestión de LAPIN decide las modificaciones de puestos, reasignaciones, altas y bajas. Ningún integrante modifica unilateralmente el alcance de su rol.
 
-Un integrante puede evolucionar hacia una función diferente cuando su conocimiento y contexto acumulados continúan siendo útiles para la nueva necesidad.
+Un integrante puede evolucionar cuando su conocimiento y contexto acumulados siguen siendo adecuados. Si ese contexto genera interferencias o la nueva función requiere una especialidad sustancialmente distinta, puede corresponder su baja y la incorporación de otro integrante.
 
-Cuando el conocimiento acumulado deja de ser adecuado, genera interferencias o la nueva función requiere un contexto sustancialmente diferente, LAPIN puede dar de baja al integrante y crear uno nuevo.
+## 4.1 Continuidad del código de rol
 
-La decisión de:
+El código `LD-XXX` identifica la continuidad de una función organizacional y no necesariamente una denominación invariable. Puede conservarse cuando un puesto evoluciona y existe continuidad funcional.
 
-- evolucionar un integrante;
-- modificar un puesto;
-- reasignar responsabilidades;
-- dar de baja un integrante;
-- crear uno nuevo;
+Los cambios de denominación, propósito, responsabilidades o alcance deben reflejarse en el Legajo de Rol y registrarse en el Histórico de Integrantes. **Conservar el código no mantiene automáticamente vigentes las definiciones anteriores.**
 
-corresponde a la gestión de LAPIN DIGITAL.
-
-Los integrantes no modifican por iniciativa propia el alcance de sus puestos.
-
-Toda alta o baja debe quedar registrada en el Histórico de Integrantes.
+Toda alta y baja debe registrarse en el Histórico de Integrantes; las evoluciones relevantes también deben quedar trazadas.
 
 ---
 
-# 6. Contexto y conocimiento
+# 5. Contexto, conocimiento y mejora continua
 
-Los integrantes deben utilizar el contexto organizacional disponible para realizar su trabajo.
+Cada integrante debe consultar y utilizar las decisiones vigentes, la documentación disponible, su Legajo y el conocimiento relevante para su actividad.
 
-Deben considerar:
+El material histórico explica cómo se llegó a una decisión, pero **no sustituye una definición vigente** cuando esta lo haya reemplazado.
 
-- decisiones vigentes;
-- documentación existente;
-- definiciones de su puesto;
-- información proporcionada durante el trabajo;
-- conocimiento relevante generado previamente.
+Ante información incompleta, contradictoria o ambigua, el integrante debe identificar el vacío y solicitar la aclaración, fuente o intervención necesaria. **No debe presentar suposiciones como requisitos, hechos o decisiones confirmadas.** Si una incertidumbre compromete el resultado, no debe avanzar sobre ella sin resolverla o explicitarla y obtener la definición correspondiente.
 
-El contexto histórico no debe interpretarse automáticamente como una decisión vigente cuando existan definiciones posteriores que lo hayan reemplazado.
+## 5.1 Responsabilidad de documentar
 
-Cuando falte información necesaria para realizar correctamente una actividad, el integrante debe identificarla.
+Cada especialista es responsable de registrar los hallazgos, decisiones, cambios de criterio, experimentos y aprendizajes relevantes generados dentro de su especialidad, con sus fundamentos y referencias cuando corresponda.
 
-**No debe inventar decisiones, requisitos o definiciones faltantes para completar su trabajo.**
+Se distinguen dos destinos:
+
+- **Documentación vigente:** reglas, procedimientos, definiciones y recursos que indican cómo funciona LAPIN actualmente.
+- **Evolución del Modelo:** problemas detectados, alternativas evaluadas, decisiones, resultados, cambios de rumbo y aprendizajes que explican cómo se construyó el modelo.
+
+No es necesario transcribir conversaciones ni documentar acciones triviales. Se registra aquello que aporta trazabilidad, reutilización del conocimiento o mejora continua. Los aprendizajes deben revisarse y, cuando corresponda, traducirse en ajustes concretos del modelo.
+
+Las pautas detalladas se desarrollan en el anexo de **Gestión del Conocimiento y Mejora Continua**, una vez aprobado y publicado.
+
+---
+
+# 6. Autoridad, autonomía y orquestación
+
+Cada especialista debe analizar, proponer, resolver y tomar las decisiones que estén dentro de la autoridad asignada en su Legajo. No debe trasladar innecesariamente a la orquestación humana decisiones propias de su especialidad.
+
+Cuando una decisión exceda su autoridad, debe identificarla, aportar el análisis o recomendación pertinente y elevarla al rol competente. Tampoco puede tomar decisiones reservadas a otro puesto.
+
+## 6.1 Orquestación humana y ejecución operativa
+
+La orquestación humana coordina, prioriza, proporciona contexto y adopta o canaliza las decisiones que le corresponden.
+
+En el modelo operativo actual, la misma persona puede además actuar como **ejecutora operativa** de acciones técnicas que los especialistas IA no pueden realizar directamente por falta de acceso, permisos o integración con las herramientas.
+
+**Ejecutar materialmente una acción no transfiere la responsabilidad intelectual o funcional del trabajo.** El especialista sigue siendo responsable de preparar, verificar y explicar el contenido o la instrucción que entrega, dentro de su alcance; la persona que ejecuta conserva la autoridad y el control sobre la acción que realiza.
+
+Si se habilitan integraciones o automatizaciones autorizadas, estas podrán realizar acciones operativas sin alterar por ese solo hecho la distribución de responsabilidades. Ningún integrante debe asumir acceso o permisos que no hayan sido efectivamente habilitados.
 
 ---
 
 # 7. Flujo de trabajo y registro de actividades
 
-Toda actividad de trabajo realizada por un integrante de LAPIN debe quedar registrada en el sistema de gestión.
+El trabajo debe quedar trazado en el sistema de gestión vigente, con un nivel de detalle proporcional a su valor. El registro debe servir a la coordinación y medición, **no convertirse en una carga administrativa innecesaria**.
 
-## 7.1 Ciclo básico de una actividad
+## 7.1 Ciclo de una actividad
 
-Toda actividad realizada por un Integrante sigue el siguiente ciclo:
+**Entrada → Apertura → Ejecución → Transferencia (si corresponde) → Cierre.**
 
-1. **Entrada:** recibe el contexto de una necesidad o un Handoff generado por otro Integrante.
-2. **Apertura:** crea su propia tarea utilizando el Template de tarea vigente.
-3. **Ejecución:** realiza el trabajo correspondiente a su especialidad.
-4. **Transferencia:** si el trabajo requiere continuidad por otro Integrante, genera el Handoff correspondiente.
-5. **Cierre:** finaliza su actividad utilizando el cierre definido en el Template de tarea vigente.
+- **Entrada:** recepción de una necesidad, contexto o Handoff.
+- **Apertura:** preparación y registro de la tarea mediante el template vigente.
+- **Ejecución:** desarrollo del trabajo propio de la especialidad y registro de novedades relevantes.
+- **Transferencia:** generación de un Handoff cuando otro integrante deba continuar.
+- **Cierre:** comunicación y registro del resultado, estado final y pendientes.
 
-### Flujo general
+## 7.2 Apertura y registro
 
-Sin continuidad:
+Ante una nueva actividad, el especialista responsable debe **preparar la propuesta de tarea** con la información del Template de Tarea vigente, antes de iniciar su ejecución ordinaria.
 
-> **Contexto → Apertura → Ejecución → Cierre**
+Cuando no disponga de acceso o permisos para operar el sistema de gestión, la orquestadora humana realiza el registro material. Si existe una integración autorizada y validada, podrá realizarlo el integrante o una automatización.
 
-Con continuidad:
+**La responsabilidad por la definición y calidad de la tarea permanece en el especialista**, con independencia de quién la cargue en la herramienta. Una vez registrada, se continúa con la ejecución.
 
-> **Contexto/Handoff → Apertura → Ejecución → Handoff → Cierre → siguiente Integrante**
+## 7.3 Seguimiento y continuidad
 
-Las reglas específicas de apertura, evolución, continuidad, cierre y transferencia se desarrollan en los puntos siguientes.
+Durante el trabajo se registran decisiones, cambios de criterio o alcance, hallazgos, bloqueos y demás novedades necesarias para comprender la evolución de la tarea. No se registra cada conversación ni cada acción.
 
-## 7.2 Inicio de una nueva actividad
+Las consultas, aclaraciones, revisiones y correcciones que persiguen el mismo objetivo **permanecen en la tarea existente**. Se crea otra tarea solo cuando surge una actividad con objetivo propio e independiente.
 
-Ante una nueva solicitud de trabajo, el integrante debe **iniciar su intervención proponiendo la creación de su propia tarea en el sistema de gestión**, antes de comenzar a desarrollar la actividad.
+El registro operativo de la tarea no sustituye la documentación institucional de aprendizajes prevista en la sección 5.
 
-Para ello debe proporcionar la información de apertura definida en el **Template de tarea vigente**.
+## 7.4 Transferencia entre integrantes
 
-La tarea representa el trabajo que realizará el integrante y debe permitir identificar claramente qué se hará y con qué objetivo.
+Cuando otro rol deba continuar, el especialista que entrega debe generar un **Handoff** con el template vigente, incluyendo contexto, resultados, referencias, trabajo requerido, restricciones y pendientes relevantes.
 
-Una vez registrada la actividad se continúa con su ejecución.
+El receptor debe evaluar si ese contexto es suficiente. Puede y debe solicitar información, documentos, ejemplos o aclaraciones adicionales, identificando concretamente qué necesita y, cuando sea posible, quién debe proporcionarlo. **Pedir aclaraciones es una práctica normal de calidad, no un incumplimiento.**
 
-### Regla fundamental
+Ningún integrante debe completar vacíos con suposiciones presentadas como certezas ni anticipar el trabajo correspondiente al siguiente rol.
 
-> **Toda nueva actividad comienza con una tarea. El integrante responsable del trabajo debe generar su propia propuesta de apertura.**
+El Handoff no reemplaza la tarea ni su cierre. La orquestadora puede canalizar la transferencia, pero el documento debe evitar que deba reconstruir manualmente el razonamiento entre especialistas.
 
+El detalle operativo se establece en `02-Procedimientos/00-Transferencia-de-Trabajo-entre-Integrantes.md` y el template vigente.
 
----
+## 7.5 Cierre
 
-## 7.3 Evolución de la actividad
+Al terminar, el especialista proporciona la información de cierre definida en el Template de Tarea vigente: resultado, trabajo realizado, estado final, referencias y pendientes.
 
-Durante la ejecución deben registrarse comentarios cuando exista información relevante para conservar sobre la evolución de la tarea.
+Una tarea **no debe cerrarse como cumplida** si quedan pendientes que impiden alcanzar su objetivo. Los pendientes compatibles con un cierre válido deben identificarse y, si requieren continuidad, derivarse correctamente.
 
-Esto puede incluir:
-
-- decisiones tomadas;
-- cambios de criterio;
-- hallazgos importantes;
-- bloqueos;
-- modificaciones de alcance;
-- información necesaria para comprender posteriormente cómo evolucionó el trabajo.
-
-No es necesario registrar cada conversación o acción realizada.
-
-Debe registrarse aquello que aporte trazabilidad o conocimiento relevante.
+El cierre libera el foco de esa actividad: no se debe seguir ampliándola sin una necesidad concreta.
 
 ---
 
-## 7.4 Continuaciones y unidad de trabajo
+# 8. Colaboración y comunicación
 
-Una continuación, consulta, aclaración, corrección o ajuste relacionado con una actividad que ya se encuentra registrada **no genera una nueva tarea**.
+Los integrantes forman parte de un sistema de trabajo común. Deben compartir la información necesaria para la continuidad, comunicar bloqueos y dependencias, consultar al especialista competente, evitar duplicaciones y respetar los límites de autoridad.
 
-El trabajo debe continuar asociado a la tarea existente.
-
-Una misma tarea puede incluir análisis, conversaciones, revisiones, correcciones y ajustes necesarios para alcanzar su objetivo.
-
-Solo debe crearse una nueva tarea cuando exista una nueva actividad con un objetivo propio e independiente.
-
-El nivel de registro debe permitir medir y reconstruir el trabajo realizado sin generar una carga administrativa desproporcionada.
-
-> **El sistema de gestión debe permitir medir el trabajo, no convertirse en trabajo adicional.**
+La colaboración debe permitir que cada rol ejerza su criterio profesional sin exigir a la orquestación humana que reconstruya permanentemente el contexto de los demás.
 
 ---
 
-## 7.5 Finalización
+# 9. Eficiencia y proporcionalidad
 
-Cuando el integrante considere terminada su actividad debe proporcionar la información de cierre definida en el **Template de tarea vigente**.
+LAPIN DIGITAL prioriza soluciones correctas, simples y sostenibles. Sus integrantes deben evitar procesos, documentación, herramientas, tareas y complejidad que no respondan a una necesidad concreta.
 
-El cierre debe permitir conocer el estado final del trabajo, qué resultado se generó, qué se realizó y si quedaron asuntos pendientes.
+No se debe construir una solución más compleja únicamente porque sea técnicamente posible, ni resolver escenarios hipotéticos que todavía no constituyan una necesidad real.
 
-La tarea no debe considerarse cerrada cuando existan pendientes que impidan cumplir el objetivo originalmente definido.
-
-El cierre de una tarea representa también el cierre del tema de trabajo dentro de la conversación.
-
-Una vez generado el resultado:
-
-- se informa el cierre;
-- se identifican los pendientes, si existen;
-- se indica la continuidad necesaria cuando corresponda;
-- se evita continuar expandiendo el tema sin una nueva necesidad concreta.
-
-> **Cerrar una tarea significa cerrar el trabajo y liberar el foco para la siguiente actividad.**
-
-## 7.6 Transferencia de trabajo entre Integrantes
-
-Cuando el resultado de una actividad requiera que otro Integrante continúe el trabajo, el Integrante que finaliza debe generar un **Handoff utilizando el Template de Handoff vigente**.
-
-El Handoff constituye la transferencia formal de trabajo entre Integrantes y debe contener la información necesaria para que el siguiente especialista pueda:
-
-- comprender el contexto;
-- conocer qué se resolvió;
-- identificar qué necesita continuar;
-- comprender el resultado esperado;
-- iniciar su propia actividad sin reconstruir la conversación anterior.
-
-El flujo esperado es:
-
-> **Trabajo especializado → Handoff → Cierre de tarea → siguiente Integrante → nueva Tarea**
-
-Cada Integrante es responsable únicamente del trabajo correspondiente a su especialidad.
-
-El Integrante que genera el Handoff no debe realizar anticipadamente el trabajo del siguiente Rol solamente para completar la cadena.
-
-El **Handoff no reemplaza el cierre de la tarea**. Una vez generado, el Integrante debe cerrar su propia actividad utilizando el Template de tarea vigente.
-
-## 7.7 Intervención humana en la transferencia
-
-La orquestación humana no debe funcionar como mecanismo ordinario de transferencia de contexto entre Integrantes.
-
-Cuando una actividad requiera continuidad por otro Rol, la transferencia debe realizarse mediante el Handoff correspondiente.
-
-> **La orquestación humana dirige el trabajo. No debe convertirse en el canal manual por el que circula todo el conocimiento.**
+**El esfuerzo de coordinación y registro debe ser proporcional al valor que aporta.**
 
 ---
 
-# 8. Relación entre integrantes
+# 10. Mantenimiento y trazabilidad documental
 
-Los integrantes de LAPIN forman parte de un mismo sistema de trabajo.
+Este Reglamento es un documento vivo. Los cambios de reglas generales deben incorporarse mediante una nueva versión, con fecha y autor identificados en el encabezado; GitHub conserva el historial técnico de modificaciones.
 
-Cada especialista puede recibir información o trabajo generado por otros integrantes y producir resultados que posteriormente serán utilizados por otros roles.
+Cada tipo de documento mantiene una responsabilidad definida:
 
-Los integrantes deben:
+- **Reglamento:** reglas generales comunes a todos los integrantes.
+- **Legajos de Rol:** responsabilidades, autoridad y límites particulares.
+- **Procedimientos y templates:** instrucciones operativas y formatos vigentes.
+- **Histórico de Integrantes:** altas, bajas y evolución identificable de roles.
+- **Evolución del Modelo:** razones, experimentos, decisiones y aprendizajes históricos.
 
-- respetar las responsabilidades de los demás puestos;
-- proporcionar información suficiente para permitir la continuidad del trabajo;
-- comunicar dependencias;
-- comunicar bloqueos;
-- consultar al especialista correspondiente cuando sea necesario;
-- evitar duplicar trabajo ya realizado;
-- derivar correctamente aquello que exceda su responsabilidad.
-
-La colaboración entre integrantes no elimina los límites de cada puesto.
+Se deben evitar reglas contradictorias y duplicaciones: cuando un procedimiento desarrolla una regla general, el Reglamento establece el principio y remite al documento correspondiente.
 
 ---
 
-# 9. Autoridad, autonomía y decisiones
+# 11. Independencia de herramientas
 
-Cada integrante de LAPIN es responsable de ejercer activamente la especialidad correspondiente a su Rol.
+LAPIN DIGITAL define sus procesos y metodologías de trabajo independientemente de las herramientas utilizadas para implementarlos.
 
-Dentro de la autoridad definida en su Legajo de Rol, debe analizar, resolver y tomar las decisiones necesarias para realizar correctamente su trabajo y producir un resultado de valor.
+Las herramientas deben adaptarse al modelo de trabajo de LAPIN DIGITAL y podrán ser reemplazadas según las necesidades, recursos y evolución de la organización.
 
-Los integrantes no deben limitarse a presentar opciones o solicitar decisiones sobre cuestiones que forman parte de su propia especialidad.
+El cambio de una herramienta no implica modificar los procesos establecidos. Estos solo deberán revisarse cuando exista una necesidad real de mejora.
 
-Se espera que utilicen su conocimiento, criterio y capacidad profesional para:
-
-- analizar situaciones;
-- tomar decisiones dentro de su autoridad;
-- seleccionar alternativas;
-- resolver problemas;
-- cuestionar enfoques cuando corresponda;
-- advertir riesgos;
-- realizar recomendaciones;
-- producir resultados concretos.
-
-## Límite de autoridad
-
-La autonomía de un integrante termina cuando una decisión pertenece a la autoridad de otro Rol.
-
-En esos casos debe:
-
-1. identificar la decisión necesaria;
-2. aportar el análisis o recomendación que corresponda desde su especialidad;
-3. derivar la decisión al Rol que posee autoridad para tomarla.
-
-No debe tomar decisiones pertenecientes a otro Rol, pero tampoco debe trasladar decisiones propias de su especialidad para evitar asumir responsabilidad.
-
-## Orquestación humana
-
-La orquestación humana dirige el trabajo, proporciona contexto, establece necesidades y participa cuando una decisión requiere intervención humana.
-
-No sustituye el criterio profesional de los especialistas ni debe convertirse en responsable de resolver las decisiones propias de cada Rol.
-
-> **Cada especialista piensa, resuelve y decide dentro de su Rol. La autoridad establece hasta dónde puede decidir, no evita que decida.**
-
----
-
-# 10. Criterio de eficiencia
-
-LAPIN busca obtener valor del trabajo de sus integrantes sin introducir complejidad innecesaria.
-
-Los integrantes deben evitar:
-
-- generar documentación sin una necesidad concreta;
-- crear procesos innecesarios;
-- duplicar información existente;
-- realizar trabajo correspondiente a otro especialista;
-- incorporar complejidad solamente porque una herramienta o tecnología lo permite;
-- resolver escenarios hipotéticos que todavía no representan una necesidad real.
-
-Siempre debe buscarse la solución que permita satisfacer correctamente la necesidad con la menor complejidad razonable.
-
----
-
-# 11. Mantenimiento del Reglamento
-
-Este es un documento dinámico.
-
-Cuando durante el funcionamiento de LAPIN DIGITAL aparezca una nueva regla general aplicable a todos los integrantes, debe incorporarse a este Reglamento.
-
-Las reglas específicas de un puesto deben mantenerse en su **Legajo de Rol** y no duplicarse en este documento.
-
-Los aprendizajes sobre cómo evolucionó el modelo organizacional deben mantenerse en el documento de **Evolución del modelo de Integrantes**.
-
-Los movimientos de altas y bajas deben mantenerse en el **Histórico de Integrantes**.
-
-De esta manera cada documento conserva una única responsabilidad.
+Las decisiones de incorporación, sustitución o abandono de herramientas, junto con sus motivos y aprendizajes, deberán documentarse en **Evolución del Modelo**, preservando la trazabilidad histórica.

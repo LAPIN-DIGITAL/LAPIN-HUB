@@ -1,6 +1,6 @@
-> **Versión:** 1.0
+> **Versión:** 1.1
 > **Fecha:** 07/11/2026
-> **Autor:** Jessica +RRHH + DP
+> **Autor:** Jessica + RRHH + DP
 
 # Registro y Medición del Trabajo
 
@@ -82,32 +82,34 @@ Estas dimensiones pueden superponerse y no deben sumarse automáticamente.
 
 Además, una conversación con IA no constituye por sí sola una medición precisa del tiempo de procesamiento de la IA.
 
+**Etapa actual de LAPIN:** la prioridad es conocer el tiempo real dedicado por el Orquestador, porque hoy representa el principal costo de coordinación que necesitamos comprender. Se incorporó también la estimación del esfuerzo de los Integrantes IA, identificándola expresamente como **estimación**, no como una duración medida automáticamente.
+
+Estas magnitudes deben registrarse por separado. Una estimación de esfuerzo IA no puede utilizarse como si fuera una medición de ejecución ni sumarse sin más al tiempo humano. La intención es mejorar gradualmente la calidad de los datos sin exigir capacidades de registro que todavía no están implementadas.
+
+**Evolución posible:** si LAPIN incorpora agentes capaces de iniciar y cerrar actividades con registros persistentes, podrían capturarse marcas de inicio, fin, pausas y otros datos útiles para análisis estadístico. Esa automatización es una posibilidad futura, no una funcionalidad actual.
+
 ### 3.4. Diferenciación entre estimación y registro horario
 
-Durante la actualización del Template de tarea surgió la necesidad de distinguir dos conceptos:
+Durante la revisión del Template de tarea se identificó la necesidad de distinguir:
 
-- **Tiempo estimado:** duración prevista para completar una tarea.
-- **Fecha y hora de inicio:** momento real en que comienza su ejecución.
+- **Tiempo estimado:** previsión del esfuerzo necesario para una tarea o actividad.
+- **Inicio y fin registrados:** marcas temporales efectivamente obtenidas durante una sesión de trabajo.
+- **Duración real:** tiempo calculado a partir de registros válidos, considerando las pausas que correspondan.
 
-Inicialmente se consideró incorporar únicamente el tiempo estimado. Sin embargo, se identificó que este dato no permite calcular la duración real del trabajo.
+Una estimación no demuestra cuándo empezó o terminó una actividad. Del mismo modo, conocer la hora de apertura y cierre de una tarea no demuestra que se haya trabajado continuamente durante ese intervalo.
 
-Por ello, se decidió registrar ambos valores en la Apertura y agregar la fecha y hora de finalización en el Cierre.
+Inicialmente se evaluó incorporar campos de inicio y finalización al Template de tarea. La revisión posterior del sistema documental llevó a evitar duplicar allí información cuya captura y seguimiento corresponde al procedimiento de registro y a la herramienta utilizada.
 
-Esta diferenciación permite:
+**Criterio actual:** el Template describe la tarea y sus resultados; el procedimiento establece cómo registrar el esfuerzo y la herramienta conserva los datos correspondientes, según las capacidades efectivamente disponibles. No se deben asumir automatizaciones aún no implementadas.
 
-- Comparar el esfuerzo previsto con el real.
-- Calcular tiempos transcurridos.
-- Identificar desviaciones.
-- Mejorar futuras estimaciones utilizando información histórica.
-
-**Decisión adoptada:** incorporar ambos campos al Template de tarea v2.1, sin modificar el Reglamento general ni duplicar instrucciones operativas.
+Esta separación permite comparar previsiones y registros sin convertir el documento de la tarea en un segundo sistema de control horario.
 
 ## 4. Valor para el Modelo LAPIN
 
 La información obtenida podría utilizarse para:
 
 1. **Mejorar las estimaciones:** utilizar tiempos históricos reales según Rol, actividad y modalidad de trabajo.
-2. **Evaluar eficiencia:** comparar esfuerzo humano, ejecución de IA y resultados obtenidos.
+2. **Evaluar eficiencia:** comparar esfuerzo humano real, esfuerzo IA estimado o medido según corresponda, y resultados obtenidos.
 3. **Identificar oportunidades de mejora:** detectar retrabajos, investigaciones prolongadas, esperas y costos de coordinación.
 4. **Evaluar la incorporación de IA:** determinar si la asistencia o automatización reduce efectivamente el esfuerzo humano.
 5. **Mejorar la trazabilidad:** relacionar tareas, actividades, tiempos y resultados.
@@ -130,7 +132,7 @@ Se propone evolucionar hacia un modelo donde cada Integrante pueda registrar sus
 
 El registro debería permitir distinguir actividades, pausas, participación humana y ejecución de IA, según las capacidades disponibles.
 
-En una etapa futura, los agentes podrían generar y guardar automáticamente registros vinculados a sus tareas, reduciendo la intervención manual.
+En una etapa futura, los agentes podrían registrar automáticamente el inicio, las pausas, la reanudación y el fin de sus actividades, guardar esos eventos vinculados a las tareas y aportar datos adicionales para análisis estadístico. Esta posibilidad requiere capacidades técnicas y persistencia que todavía deben evaluarse e implementarse.
 
 La información resultante serviría como insumo para LAPIN Time Tracker, la planificación y la evaluación del modelo.
 
@@ -147,7 +149,7 @@ Los requerimientos funcionales y técnicos de LAPIN Time Tracker deberán gestio
 ## 8. Aspectos pendientes de definición
 
 - Qué eventos y actividades será obligatorio registrar.
-- Cómo se identificará el tiempo humano frente al tiempo de IA.
+- Cómo se identificará el tiempo humano real frente al esfuerzo IA estimado y, cuando exista, medido.
 - Qué mecanismos permitirán guardar y recuperar registros.
 - Cómo se conciliará la información con LAPIN Time Tracker.
 - Qué criterios utilizará RRHH para interpretar diferencias.

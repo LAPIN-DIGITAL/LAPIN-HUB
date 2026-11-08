@@ -37,7 +37,7 @@ Generar únicamente al iniciar la actividad.
 
 ## Seguimiento de tiempo
 
-Registrar durante la ejecución de la tarea, conforme al procedimiento `04-Registro-de-Tiempo-y-Actividad.md`.
+Registrar durante la ejecución de la tarea, conforme al procedimiento `02-Integrantes/02-Procedimientos/01-Registro-de-Tiempo-y-Actividad.md`.
 
 **Pausa:** fecha y hora en que se interrumpe el trabajo.
 
@@ -49,7 +49,7 @@ Registrar durante la ejecución de la tarea, conforme al procedimiento `04-Regis
 
 **Responsabilidad sobre los eventos:**
 
-- El humano debe comunicar cuándo inicia, pausa, reanuda o finaliza su trabajo con asistencia de IA.
+- El Orquestador debe comunicar cuándo inicia, pausa, reanuda o finaliza su trabajo con asistencia de IA.
 - El Integrante IA registra los eventos comunicados cuando dispone de un mecanismo confiable para hacerlo.
 - No deben suponerse pausas ni continuidad de trabajo por ausencia de mensajes.
 - Si no existen datos verificables, el registro debe identificarse como incompleto.
@@ -66,22 +66,14 @@ Generar únicamente cuando la actividad haya finalizado.
 
 **Estado:** completada / pendiente / bloqueada.
 
-**Fecha y hora de finalización:** momento real en que termina el trabajo, con zona horaria.
-
 **Resultado generado:** qué se produjo (documento, decisión, definición), con su nombre o ubicación si corresponde.
 
 **Resumen de lo trabajado:** qué se hizo durante la tarea, en pocas líneas.
 
-**Tiempo humano real:** tiempo efectivo acumulado de intervención humana, excluyendo pausas.
-
-**Tiempo de IA:** duración de ejecución o procesamiento de IA, únicamente cuando exista medición confiable. De lo contrario, indicar "No medido".
+**Fecha y hora de finalización:** momento real en que termina el trabajo, con zona horaria.
 
 **Tiempo transcurrido:** duración total entre el inicio y la finalización, incluyendo interrupciones.
-
-**Registro de tiempo:** referencia al detalle de sesiones, cuando exista.
 
 **Pendientes:** qué queda abierto o sin resolver, y quién debería resolverlo.
 
 ---
-
-**Nota:** Los tiempos humanos, de IA y transcurridos son métricas diferentes. No deben sumarse automáticamente ni utilizarse como equivalentes. No deben inventarse horarios ni duraciones cuando no exista información verificable.
